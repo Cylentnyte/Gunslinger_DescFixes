@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!-- LASTOCHKA -->
+	<string id="gunsl_addon_scope_pso1m2">
+		<text>PSO-1M2 sniper scope</text>
+	</string>
+	<string id="gunsl_addon_scope_pso1m2_descr">
+		<text>Fixed magnification optical sight with a reticle marked for long-range sniper fire. The reticle can also be illuminated for more convenient firing at night. Attaches to the standard dovetail mount on Warsaw Pact weapons. Standard equipment on the SVD.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_pso1m2_1">
+		<text>PSO-1M2-1 assault sight</text>
+	</string>
+	<string id="gunsl_addon_scope_pso1m2_1_descr">
+		<text>Fixed magnification optical sight with a reticle marked for mid-range fire. Comes equipped with a backlit reticle that can be turned on at night for easier engagements. Originally designed for the VSS Vintorez and AS VAL, but can be attached to any Warsaw Pact weapon with a dovetail mount.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_1pn93_4">
+		<text>1PN93-4 night sniper scope</text>
+	</string>
+	<string id="gunsl_addon_scope_1pn93_4_descr">
+		<text>Fixed magnification night sight with a reticle marked for long-range sniper fire. Since the scope sits quite high off its base, most built-in ironsights on the weapon are left visible as a form of backup. Originally designed for the SVD, but can be attached to any Warsaw Pact weapon with a dovetail mount.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_1pn93_1">
+		<text>1PN93-1 night assault sight</text>
+	</string>
+	<string id="gunsl_addon_scope_1pn93_1_descr">
+		<text>Fixed magnification night sight with a reticle marked for mid-range fire. Intended for use on the AK-74 or AN-94, but can attach to any Warsaw Pact weapon with a dovetail mount.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_kashtan">
+		<text>1P78-1 Kashtan universal sight</text>
+	</string>
+	<string id="gunsl_addon_scope_kashtan_descr">
+		<text>Optical sight with 2.8x magnification, suitable for engagements out to the far end of mid-range. Can attach to any Warsaw Pact weapon with a dovetail mount.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_cobra">
+		<text>EKP-1S-03 Kobra collimator sight</text>
+	</string>
+	<string id="gunsl_addon_scope_cobra_descr">
+		<text>Comes equipped with an illuminated chevron for comfortable aiming in natural light. Can be installed on Warsaw Pact weapons with a dovetail mount.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_pka">
+		<text>PK-A collimator sight</text>
+	</string>
+	<string id="gunsl_addon_scope_pka_descr">
+		<text>A simple red dot and clear sight picture allows for easy aiming in natural light. Can be mounted on Warsaw Pact weapons with a dovetail mount.</text>
+	</string>
+
+<!-- PICCATINY -->
+
+	<string id="gunsl_addon_scope_susat">
+		<text>SUSAT assault sight</text>
+	</string>
+	<string id="gunsl_addon_scope_susat_descr">
+		<text>4x optical sight, developed in the UK. Typically used in mid to long-range engagements and comes complete with backup mechanical sights in case of optics failure. Mounts to a special dovetail rail on the L85.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_aimpoint">
+		<text>Aimpoint CompM4s reflex sight</text>
+	</string>
+	<string id="gunsl_addon_scope_aimpoint_descr">
+		<text>Enclosed red dot sight from the Swedish company Aimpoint AB. Designed for accurate shooting at short and medium distances. Mounts to weapons with a Picatinny rail.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_eotech">
+		<text>EOTech XPS3-0 red dot sight</text>
+	</string>
+	<string id="gunsl_addon_scope_eotech_descr">
+		<text>Holographic sight from the American company EOTech. The XPS3-0 is compact and lightweight, making it a popular choice among stalkers. Mounts to weapons with a Picatinny rail.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_elcan">
+		<text>Elcan SpecterDR 1x/4x hybrid sight</text>
+	</string>
+	<string id="gunsl_addon_scope_elcan_descr">
+		<text>Hybrid combat sight with 1x-4x variable magnification from the Canadian company ELCAN Optical Technologies. The reticle features adjustable brightness illumination and comes with a backup sight in the event of optics failure. Mounts to weapons with a Picatinny rail.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_pn23">
+		<text>PN-23 night assault sight</text>
+	</string>
+	<string id="gunsl_addon_scope_pn23_descr">
+		<text>3x night sight from Russian manufacturer NPZ (Novosibirsk Instrument-Making Plant), complete with 7 adjustable levels of illumination. Mounts to weapons with a Picatinny rail.</text>
+	</string>
+
+<!-- Other scopes -->
+	<string id="gunsl_addon_scope_rakurs">
+		<text>Rakurs-PM assault sight</text>
+	</string>
+	<string id="gunsl_addon_scope_rakurs_descr">
+		<text>The wide-angle optics allow for efficient shot placement against moving and stationary targets out to 400 meters. Mounts to a Weaver rail, which can be added above certain weapon forends by most gunsmiths, leaving the shooter free to observe their surroundings while aiming. Manufactured by NPZ.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_pu">
+		<text>PU hunting sight</text>
+	</string>
+	<string id="gunsl_addon_scope_pu_descr">
+		<text>3.5x hunting scope. Designed for installation on guns equipped with a special bracket and is not compatible with other weapons.</text>
+	</string>
+
+	<string id="gunsl_addon_scope_pgo7v">
+		<text>PGO-7V grenade launcher sight</text>
+	</string>
+	<string id="gunsl_addon_scope_pgo7v_descr">
+		<text>A Soviet telescopic sight designed in the 1960s specifically for use with RPG-7 series grenade launchers. Although the additional accuracy it can provide is generally lost in the hands of poorly trained stalkers, it does make firing more convenient. Comes equipped with an illuminated reticle for firing at night.</text>
+	</string>
+	
+	<string id="gunsl_addon_scope_po4x34">
+		<text>PO 4x34 optical sight</text>
+	</string>
+	<string id="gunsl_addon_scope_po4x34_descr">
+		<text>Soviet 4x optical sight, designed for precision shot placement at mid-range distances. The simple design and straightforward operation makes it easy to use, however the limited number of adjustments renders it an unpopular choice among snipers. Included as standard kit with the OTs-14 Groza bullpup assault rifle and will mount to it without need for modification.</text>
+	</string>
+
+<!-- SILENCERS -->
+
+	<string id="gunsl_addon_silencer_pb">
+		<text>PB silencer 9x18mm</text>
+	</string>
+	<string id="gunsl_addon_silencer_pb_descr">
+		<text>The detachable counterpart of the integral silencer on the PB pistol. Incompatible with other weapons.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_m4_2000">
+		<text>AAC M4-2000 silencer 5.56x45mm</text>
+	</string>
+	<string id="gunsl_addon_silencer_m4_2000_descr">
+		<text>The use of precision CNC machining and high-temperature aerospace alloys in its construction permits the harsh automatic fire from assault rifles and carbines. Many of these were initially brought into the Zone by well-funded mercenary groups and recon units.</text>
+	</string>
+
+	<string id="gunsl_addon_apb_silencer">
+		<text>APB silencer 9x18mm</text>
+	</string>
+	<string id="gunsl_addon_apb_silencer_descr">
+		<text>Silencer designed exclusively for the APB automatic pistol. Incompatible with other weapons.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_svd">
+		<text>TGP-V silencer 7.62x54mmR</text>
+	</string>
+	<string id="gunsl_addon_silencer_svd_descr">
+		<text>Quick-detach silencer made to slide over the built-in flash hider of the SVD.</text>
+	</string>
+
+	<string id="gunsl_addon_tgpa">
+		<text>TGP-A silencer 5.45x39mm</text>
+	</string>
+	<string id="gunsl_addon_tgpa_descr">
+		<text>Tactical suppressor and flash hider for the AK family of rifles.</text>
+	</string>
+
+	<string id="gunsl_addon_colt_p220_silencer">
+		<text>AAC Black Box silencer .45 ACP</text>
+	</string>
+	<string id="gunsl_addon_colt_p220_silencer_descr">
+		<text>The offset design of this suppressor keeps the shooter's view unobstructed while aiming with standard ironsights. Fits most .45ACP pistols with threaded barrels.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_hexagon12">
+		<text>Hexagon 12K silencer 12ga</text>
+	</string>
+	<string id="gunsl_addon_silencer_hexagon12_descr">
+		<text>Suppressor from the Hexagon company designed specifically to handle 12ga shotguns and carbines.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_57x28">
+		<text>Knight's Armament Co. OHG silencer 5.7x28mm</text>
+	</string>
+	<string id="gunsl_addon_silencer_57x28_descr">
+		<text>A special 5.7x28mm variant of the OHG suppressor designed exclusively for the FN P90.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_57x28_pistol">
+		<text>GEMTECH SFN-57 silencer 5.7x28mm</text>
+	</string>
+	<string id="gunsl_addon_silencer_57x28_pistol_descr">
+		<text>Suppressor designed exclusively for the FN Five-seveN pistol, the barrel of which comes threaded from the factory. Will not attach to any other weapon.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_9x18smg">
+		<text>PP-19 Bizon silencer 9x18mm</text>
+	</string>
+	<string id="gunsl_addon_silencer_9x18smg_descr">
+		<text>This silencer is intended for installation only on the Bizon family of submachine guns.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_9x18">
+		<text>Universal silencer 9x18mm</text>
+	</string>
+	<string id="gunsl_addon_silencer_9x18_descr">
+		<text>Universal silencer for most 9x18mm pistols. Some barrels may need to be threaded by a gunsmith before it can be mounted.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_9x19">
+		<text>Universal silencer 9x19mm</text>
+	</string>
+	<string id="gunsl_addon_silencer_9x19_descr">
+		<text>Universal silencer for most 9x19mm pistols. Some barrels may need to be threaded by a gunsmith before it can be mounted.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_9x21">
+		<text>Universal silencer 9x21mm</text>
+	</string>
+	<string id="gunsl_addon_silencer_9x21_descr">
+		<text>Universal silencer for most 9x21mm pistols. Some barrels may need to be threaded by a gunsmith before it can be mounted.</text>
+	</string>
+
+	<string id="gunsl_addon_silencer_groza">
+		<text>OTs-14 Groza silencer 9x39mm</text>
+	</string>
+	<string id="gunsl_addon_silencer_groza_descr">
+		<text>Factory-spec suppressor attachment that ships with all OTs-14 Groza accessory kits. Can only be accepted by the OTs-14 Groza.</text>
+	</string>
+
+<!-- GRENADE LAUNCHERS -->
+
+	<string id="gunsl_addon_gl_gp25">
+		<text>GP-25 Kostyor</text>
+	</string>
+	<string id="gunsl_addon_gl_gp25_descr">
+		<text>Single-shot underbarrel grenade launcher for the AK family of assault rifles, produced in the USSR. The trigger mechanism is self-cocking, with a manual safety and spring catch that prevents the round from falling out under excessive movement or inversion. Accepts either VOG-25 or VOG-25P grenades.</text>
+	</string>
+
+	<string id="gunsl_addon_gl_l123a2">
+		<text>L123A2 UGL</text>
+	</string>
+	<string id="gunsl_addon_gl_l123a2_descr">
+		<text>Underbarrel grenade launcher designed to mount around the barrel and forend of the L85A2 rifle. Accepts either M433 or M397A1 grenades.</text>
+	</string>
+
+	<string id="gunsl_addon_gl_m203">
+		<text>M203A1 SOPMOD</text>
+	</string>
+	<string id="gunsl_addon_gl_m203_descr">
+		<text>The SOPMOD variant of the M203A1 grenade launcher shortens the barrel by 3" and mounts to any standard Picatinny rail. Its versatility in combat and ease of adaptation for various weapon platforms led it to see use in many parts of the world. Accepts either M433 or M397A1 grenades.</text>
+	</string>
+	
+	<string id="gunsl_addon_gl_groza">
+		<text>GP-25 Kostyor - OTs-14-4A Groza variant</text>
+	</string>
+	<string id="gunsl_addon_gl_groza_descr">
+		<text>A heavily modified version of the GP-25 grenade launcher. Includes a built-in firing complex created specifically for the OTs-14 Groza and ships with it as standard kit. The design replaces the trigger assembly on the weapon and allows the wielder to alternate between grenades or conventional ammunition by means of an external selector switch. A section of extended barrel also mounts to the weapon, however the unique size of the Groza's suppressor makes it impossible to use in combination without dangerous overlap. Mounts only to the OTs-14 Groza and accepts either VOG-25 or VOG-25P grenades.</text>
+	</string>
+</string_table>
