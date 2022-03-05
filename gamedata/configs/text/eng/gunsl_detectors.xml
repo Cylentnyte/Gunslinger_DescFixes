@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="gunsl_detector_simple">
+		<text>Detector &quot;Echo&quot;</text>
+	</string>
+	<string id="gunsl_detector_simple_descr">
+		<text>This anomaly detector is basic and outdated. It emits an audio signal when anomalous particles enter the analysis chamber in the device, the frequency of which can be used to gauge the distance to one - the closer they are, the more tones the device emits. Due to the simplicity of its design and the primitive antenna, it can only detect the most common of artifacts.</text>
+	</string>
+
+	<string id="gunsl_detector_advanced">
+		<text>Detector &quot;Bear&quot;</text>
+	</string>
+	<string id="gunsl_detector_advanced_descr">
+		<text>A current generation anomaly detector. With an anomalous field locator and LED display, it can not only detect artifacts but also determine their location and roughly indicate the direction in which they lie. A more advanced antenna detects a wider range of artifacts, although its usefulness is limited to the outdated signature list programmed into the device.</text>
+	</string>
+
+	<string id="gunsl_detector_elite">
+		<text>Detector &quot;Veles&quot;</text>
+	</string>
+	<string id="gunsl_detector_elite_descr">
+		<text>A next generation scanner that now gets issued to all scientists and researchers entering the Zone. With three advanced detection ports, the device can triangulate the exact position of any known artifact within range and display it on-screen. When not in use, it will alert the user when radiation or anomalous activity is detected nearby.</text>
+	</string>
+
+	<string id="gunsl_detector_scientific">
+		<text>Prototype Detector &quot;Svarog&quot;</text>
+	</string>
+	<string id="gunsl_detector_scientific_descr">
+		<text>A heavily-modified &quot;Veles&quot; detector with extended functionality, specially engineered by Novikov. The already advanced detection ports have been refined even further to triangulate not only artifacts, but also static fields of anomalous activity and display their positions on-screen. A pattern-recognition subroutine was embedded alongside the existing detection software, allowing it to detect abnormal signatures not currently cataloged by scientists. Theoretically.</text>
+	</string>
+
+	<string id="gunsl_detector_torch">
+		<text>Flashlight</text>
+	</string>
+	<string id="gunsl_detector_torch_descr">
+		<text>An ordinary handheld flashlight. Weighs little, but lacks the mounting hardware for attaching to a weapon. It can be used in place of an artifact detector when wielding a pistol in the other hand. The lumen output surpasses that of most headlamps used throughout the Zone.</text>
+	</string>
+</string_table>
