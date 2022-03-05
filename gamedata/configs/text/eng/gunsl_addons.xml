@@ -237,7 +237,7 @@
 		<text>M203A1 SOPMOD</text>
 	</string>
 	<string id="gunsl_addon_gl_m203_descr">
-		<text>The SOPMOD variant of the M203A1 grenade launcher shortens the barrel by 3" and mounts to any standard Picatinny rail. Its versatility in combat and ease of adaptation for various weapon platforms led it to see use in many parts of the world. Accepts either M433 or M397A1 grenades.</text>
+		<text>The SOPMOD variant of the M203A1 grenade launcher shortens the launch tube by 3" and mounts to any standard Picatinny rail. Its versatility in combat and ease of adaptation for various weapon systems led to its use in many parts of the world. Accepts either M433 or M397A1 grenades.</text>
 	</string>
 	
 	<string id="gunsl_addon_gl_groza">

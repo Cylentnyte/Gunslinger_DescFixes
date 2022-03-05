@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_ammo_11.43x23_fmj">
+		<text>.45 ACP</text>
+	</string>
+	<string id="gunsl_ammo_11.43x23_fmj_short">
+		<text>.45 ACP</text>
+	</string>
+	<string id="gunsl_ammo_11.43x23_fmj_descr">
+		<text>.45 caliber round with a 230gr bullet, a design that has remained popular since its conception in 1906. The sheer mass of each bullet exerts considerable stopping power compared to most other handgun ammunition, despite the relatively low velocity.</text>
+	</string>
+
+	<string id="gunsl_ammo_11.43x23_hydro">
+		<text>.45 ACP HydraShok</text>
+	</string>
+	<string id="gunsl_ammo_11.43x23_hydro_short">
+		<text>.45 Hydra</text>
+	</string>
+	<string id="gunsl_ammo_11.43x23_hydro_descr">
+		<text>HydraShok ammunition consists of a jacketed hollow point bullet with a patented center post, which produces reliable performance in penetration and expansion. The resulting combination has all the advantages and shortcomings of both armor piercing and hollow point ammunition types.</text>
+	</string>
+
+	<string id="gunsl_ammo_5.7x28">
+		<text>FN 5.7x28mm NATO</text>
+	</string>
+	<string id="gunsl_ammo_5.7x28_short">
+		<text>5.7x28</text>
+	</string>
+	<string id="gunsl_ammo_5.7x28_descr">
+		<text>The FN 5.7x28mm cartridge was developed in response to NATO's request for a direct replacement of the 9x19mm Parabellum, requiring greater range, accuracy, terminal velocity, and armor penetration capabilities. A redesign in 1993 resulted in the current SS190 variant, used in both the FN P90 and Five-seveN by security forces from over 40 countries.</text>
+	</string>
+
+	<string id="gunsl_ammo_12x70_buck">
+		<text>12x70mm 00-buck</text>
+	</string>
+	<string id="gunsl_ammo_12x70_buck_short">
+		<text>12х70 buck</text>
+	</string>
+	<string id="gunsl_ammo_12x70_buck_descr">
+		<text>Standard 12-gauge shell filled with 8.4mm lead shot. Immense stopping power at close ranges. Only for smoothbore shotguns.</text>
+	</string>
+
+	<string id="gunsl_ammo_12x70_zhekan">
+		<text>12x70mm slug</text>
+	</string>
+	<string id="gunsl_ammo_12x70_zhekan_short">
+		<text>12x70 slug</text>
+	</string>
+	<string id="gunsl_ammo_12x70_zhekan_descr">
+		<text>12-gauge shotgun shell that exchanges lead shot for a single solid bullet, made popular within the Zone after stalkers found it worked incredibly well against the thick hide of its mutants. The effect it has against armor is also unconventional, as it won't quite penetrate Level IIIA body armor but transfers enough concussive force behind it to significantly cripple if not mortally wound the wearer entirely.</text>
+	</string>
+
+	<string id="gunsl_ammo_5.45x39_ap">
+		<text>5.45x39mm 7N22</text>
+	</string>
+	<string id="gunsl_ammo_5.45x39_ap_short">
+		<text>5.45x39 7N22</text>
+	</string>
+	<string id="gunsl_ammo_5.45x39_ap_descr">
+		<text>Armor-piercing variant of the original 5.45x39mm cartridge used by many Warsaw Pact assault rifles. The sharp-pointed penetrator made from hardened steel makes it effective against most body armor.</text>
+	</string>
+
+	<string id="gunsl_ammo_5.45x39_fmj">
+		<text>5.45x39mm 7N6</text>
+	</string>
+	<string id="gunsl_ammo_5.45x39_fmj_short">
+		<text>5.45x39 7N6</text>
+	</string>
+	<string id="gunsl_ammo_5.45x39_fmj_descr">
+		<text>Introduced in 1974, the 5.45x39mm largely became the primary military service rifle cartridge used within the Warsaw Pact and saw multiple improvements ever since. The lighter weight allowed soldiers to carry more compared to its 7.62x39mm predecessor and also yielded less recoil, resulting in better accuracy during automatic fire. The round has a tendency to yaw on impact and create severe wound cavities on soft targets, leading to its nickname of the "poison bullet".</text>
+	</string>
+
+	<string id="gunsl_ammo_5.56x45_ap">
+		<text>5.56x45mm M995</text>
+	</string>
+	<string id="gunsl_ammo_5.56x45_ap_short">
+		<text>5.56x45 M995</text>
+	</string>
+	<string id="gunsl_ammo_5.56x45_ap_descr">
+		<text>Armor-piercing variant of the NATO standard SS109 cartridge, with a tungsten core and ability to pierce up to 12mm of RHA steel. Highly effective against body armor and made popular by the warring factions within the Zone to counter the growing popularity of exoskeletons.</text>
+	</string>
+
+	<string id="gunsl_ammo_5.56x45_fmj">
+		<text>5.56x45mm SS109</text>
+	</string>
+	<string id="gunsl_ammo_5.56x45_fmj_short">
+		<text>5.56x45 SS109</text>
+	</string>
+	<string id="gunsl_ammo_5.56x45_fmj_descr">
+		<text>Standardized in 1980 as the NATO SS109 (US M855) with the intention of penetrating steel helmets at long range. At lower velocities it will yaw to create large cavitation wounds, but at higher velocities it can fragment into smaller pieces, inflicting severe shrapnel injuries. Widely used in small arms throughout NATO territory.</text>
+	</string>
+
+	<string id="gunsl_ammo_7.62x25">
+		<text>7.62x25mm TT</text>
+	</string>
+	<string id="gunsl_ammo_7.62x25_short">
+		<text>7.62x25 TT</text>
+	</string>
+	<string id="gunsl_ammo_7.62x25_descr">
+		<text>Soviet pistol cartridge in production since 1930, which saw heavy use during the second World War and gang-related conflicts through the 90s. Due to the vast amount of these in military stockpiles and their relative cheapness, it's become a popular choice throughout the Zone. It's decent armor-piercing qualities are letdown slightly by the low stopping power compared to modern counterparts.</text>
+	</string>
+
+	<string id="gunsl_ammo_7.62x54_7h1">
+		<text>7.62x54mmR 7N14</text>
+	</string>
+	<string id="gunsl_ammo_7.62x54_7h1_short">
+		<text>7.62x54 7N14</text>
+	</string>
+	<string id="gunsl_ammo_7.62x54_7h1_descr">
+		<text>An armor-piercing variant developed specifically for the SVD, with improved ballistics and penetrating power over the standard 7.62x54mmR. Consists of a steel core, jacketed boat-tail bullet, hardened steel-tip penetrator, and extruded match-grade powder. Extremely effective against all body armor.</text>
+	</string>
+
+	<string id="gunsl_ammo_7.62x54_ap">
+		<text>7.62x54mmR PP</text>
+	</string>
+	<string id="gunsl_ammo_7.62x54_ap_short">
+		<text>7.62x54 PP</text>
+	</string>
+	<string id="gunsl_ammo_7.62x54_ap_descr">
+		<text>Inexpensive standard 7.62x54mmR cartridges. Due to the lower ballistic requirements during manufacturing, these are generally unsuitable for precision work and are instead meant for sustained automatic fire.</text>
+	</string>
+
+	<string id="gunsl_ammo_9x18_fmj">
+		<text>9x18mm PM</text>
+	</string>
+	<string id="gunsl_ammo_9x18_fmj_short">
+		<text>9x18 PM</text>
+	</string>
+	<string id="gunsl_ammo_9x18_fmj_descr">
+		<text>A lead core and mushroom-shaped steel insert are hidden beneath the round-nose jacket. Good stopping power, but ineffective against body armor.</text>
+	</string>
+
+	<string id="gunsl_ammo_9x18_pmm">
+		<text>9x18mm PMM</text>
+	</string>
+	<string id="gunsl_ammo_9x18_pmm_short">
+		<text>9x18 PMM</text>
+	</string>
+	<string id="gunsl_ammo_9x18_pmm_descr">
+		<text>A high-impulse cartridge designed specifically for the PMM pistol. Compared to the conventional 9x18mm PM, its velocity is noticeably faster thanks to a lighter bullet and increased powder charge. However, the higher pressures cause accelerated wear on weapons not designed for it. Ineffective against body armor.</text>
+	</string>
+
+	<string id="gunsl_ammo_9x19_fmj">
+		<text>9x19mm Luger</text>
+	</string>
+	<string id="gunsl_ammo_9x19_fmj_short">
+		<text>9х19 Luger</text>
+	</string>
+	<string id="gunsl_ammo_9x19_fmj_descr">
+		<text>The most iconic and widespread pistol cartridge in the world since 1902, a balanced trade-off between stopping power and size. Standard jacketed bullet with a lead core. Good ballistic properties yet inexpensive to produce, making it a popular choice for anyone in the Zone. Ineffective against body armor.</text>
+	</string>
+
+	<string id="gunsl_ammo_9x19_pbp">
+		<text>9x19mm JHP</text>
+	</string>
+	<string id="gunsl_ammo_9x19_pbp_short">
+		<text>9x19 JHP</text>
+	</string>
+	<string id="gunsl_ammo_9x19_pbp_descr">
+		<text>Jacketed hollow-point variant of the 9x19mm cartridge that expands on impact to inflict severe soft-body trauma, with the added benefit of being faster and more accurate than its FMJ counterpart. Most commonly used by police and civilians for self-defense as its design also limits any over-penetration or ricochets that could cause collateral damage. Ineffective against body armor.</text>
+	</string>
+
+	<string id="gunsl_ammo_9x39_ap">
+		<text>9x39mm SP-6</text>
+	</string>
+	<string id="gunsl_ammo_9x39_ap_short">
+		<text>9x39 SP-6</text>
+	</string>
+	<string id="gunsl_ammo_9x39_ap_descr">
+		<text>Subsonic armor-piercing ammunition designed with the AS Val and VSS Vintorez in mind. A hardened steel core protrudes beyond the bimetallic jacket and works as a penetrator on impact, however the mixed copper and steel composition accelerates wear on the barrel. Noise suppression only possible when used with a silencer. Highly effective against body armor.</text>
+	</string>
+
+	<string id="gunsl_ammo_9x39_pab9">
+		<text>9x39mm SP-5</text>
+	</string>
+	<string id="gunsl_ammo_9x39_pab9_short">
+		<text>9x39 SP-5</text>
+	</string>
+	<string id="gunsl_ammo_9x39_pab9_descr">
+		<text>Subsonic ammunition upon which the AS Val and VSS Vintorez were designed. The bimetallic jacket contains a two-part core, the front half being a mild-steel penetrator and the cavity behind it filled with lead. Noise suppression only possible when used with a silencer.</text>
+	</string>
+
+	<string id="gunsl_ammo_50ae">
+		<text>.50 AE</text>
+	</string>
+	<string id="gunsl_ammo_50ae_short">
+		<text>.50 AE</text>
+	</string>
+	<string id="gunsl_ammo_50ae_descr">
+		<text>Despite being considered one of the most powerful handgun cartridges in production, weapons chambered for the .50 Action Express are rarely seen in the Zone. Be it the weight of each round, comparatively small magazine size, or the sheer recoil felt with each shot, what little ammunition exists is usually sourced externally and bought at a premium. For all its inconvenience, there's no question about its effectiveness against large and extra large game.</text>
+	</string>
+
+	<string id="gunsl_ammo_9x21_sp10">
+		<text>9x21mm SP-10</text>
+	</string>
+	<string id="gunsl_ammo_9x21_sp10_short">
+		<text>9x21 SP-10</text>
+	</string>
+	<string id="gunsl_ammo_9x21_sp10_descr">
+		<text>Pistol cartridge with a hardened steel core left partially exposed by its jacket, resulting in a highly-effective solution against body armor. Development was funded by the FSB in 1993 for its SR1 and SR2 defensive weapons.</text>
+	</string>
+
+	<string id="gunsl_ammo_gauss">
+		<text>Gauss Battery</text>
+	</string>
+	<string id="gunsl_ammo_gauss_short">
+		<text>Battery</text>
+	</string>
+	<string id="gunsl_ammo_gauss_descr">
+		<text>Energy elements for a Gauss rifle, manufactured at the factory using high-tech equipment. Encapsulating shards of a Flash artifact within its housing allowed researchers to overcome the massive power requirements of the weapon itself.</text>
+	</string>
+
+	<string id="gunsl_ammo_gauss_cardan">
+		<text>Gauss Battery - Handmade</text>
+	</string>
+	<string id="gunsl_ammo_gauss_cardan_short">
+		<text>Battery-HM</text>
+	</string>
+	<string id="gunsl_ammo_gauss_cardan_descr">
+		<text>Batteries for the Gauss rifle powered by fragments of a Flash artifact. Handmade by Cardan, one of the former engineers on the project, but under less than ideal conditions and with comparatively inferior equipment. The result is a functional replacement for the originals at a cost of capacity and peak output current, which negatively affects projectile speed and accuracy.</text>
+	</string>
+
+	<string id="gunsl_ammo_m209">
+		<text>M433 HEDP grenade</text>
+	</string>
+	<string id="gunsl_ammo_m209_short">
+		<text>M433 HEDP</text>
+	</string>
+	<string id="gunsl_ammo_m209_descr">
+		<text>40mm high-explosive grenade suitable for most underbarrel launchers in service with NATO. Effective blast radius of 5m.</text>
+	</string>
+
+	<string id="gunsl_ammo_m397a1">
+		<text>M397A1 HE grenade</text>
+	</string>
+	<string id="gunsl_ammo_m397a1_short">
+		<text>M397A1 HE</text>
+	</string>
+	<string id="gunsl_ammo_m397a1_descr">
+		<text>40mm airburst grenade intended for use with most NATO underbarrel grenade launchers. It activates secondary internal charges on impact, causing it to leap a meter off the ground before detonating. Highly effective against targets in cover.</text>
+	</string>
+
+	<string id="gunsl_ammo_og_7b">
+		<text>PG-7VL HEAT</text>
+	</string>
+	<string id="gunsl_ammo_og_7b_short">
+		<text>PG-7VL</text>
+	</string>
+	<string id="gunsl_ammo_og_7b_descr">
+		<text>RPG-7 launcher ammunition containing a high-explosive warhead originally meant for tanks, however its proliferation worldwide resulted in many entering the Zone. Stalkers found the anti-tank properties of a direct hit proved extremely effective against even the thickest of mutant hides. Despite the rocket's range and incredible damage output, its inherent inaccuracy limits most reliable shots to 200m or less.</text>
+	</string>
+
+	<string id="gunsl_ammo_vog25">
+		<text>VOG-25 grenade</text>
+	</string>
+	<string id="gunsl_ammo_vog25_short">
+		<text>VOG-25</text>
+	</string>
+	<string id="gunsl_ammo_vog25_descr">
+		<text>Soviet fragmentation grenade primarily used in conjunction with the GP-25 Kostyor underbarrel grenade launcher. Effective blast radius of 6m.</text>
+	</string>
+
+	<string id="gunsl_ammo_vog25p">
+		<text>VOG-25P grenade</text>
+	</string>
+	<string id="gunsl_ammo_vog25p_short">
+		<text>VOG-25P</text>
+	</string>
+	<string id="gunsl_ammo_vog25p_descr">
+		<text>Airburst variation of the VOG-25, with a small charge in the nose that detonates on impact and lifts the grenade a meter in the air before exploding. Highly effective against targets in cover.</text>
+	</string>
+
+</string_table>
