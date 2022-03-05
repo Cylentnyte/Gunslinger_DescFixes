@@ -5,7 +5,7 @@
 		<text>Detector &quot;Echo&quot;</text>
 	</string>
 	<string id="gunsl_detector_simple_descr">
-		<text>This anomaly detector is basic and outdated. It emits an audio signal when anomalous particles enter the analysis chamber in the device, the frequency of which can be used to gauge the distance to one - the closer they are, the more tones the device emits. Due to the simplicity of its design and the primitive antenna, it can only detect the most common of artifacts.</text>
+		<text>This anomaly detector is basic and outdated. It emits an audio signal when anomalous particles enter the analysis chamber in the device, the frequency of which can be used to gauge the distance to one - the closer they are, the more tones the device emits. Due to the simplicity of its design and the primitive antenna, it can only detect the most basic of artifacts.</text>
 	</string>
 
 	<string id="gunsl_detector_advanced">
