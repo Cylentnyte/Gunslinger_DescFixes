@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+    <string id="gunsl_zat_b3_stalker_tech_drink_need_full_bottle00">
+        <text>No, you drink it. You never know who had it before me and irradiated it with what. What if it was poisoned? Yes, and this is clearly not enough for us, only half a bottle. Now, if you had an unopened one, it would be a completely different matter! Oh, let's sit down...</text>
+    </string>
+
+    <string id="gunsl_zat_b3_stalker_tech_drink_need_full_bottle01">
+        <text>Thank you, of course, but I don't like to finish drinking after others. Let's have a full one first - then we'll sit.</text>
+    </string>
+
+    <string id="gunsl_zat_b3_stalker_tech_drink_need_full_bottle02">
+        <text>Listen, you yourself don’t mind drinking from other people’s bottles, huh? But I'm disgusted... Full is better.</text>
+    </string>
+
+    <string id="gunsl_zat_b3_stalker_tech_drink_need_full_bottle1">
+        <text>Et' what is it? Would you like me to drink from a half full bottle? Or half empty? No, friend, just drink it yourself. Or are the holes in the armor also only half patched for you?</text>
+    </string>
+
+    <string id="gunsl_zat_b3_stalker_tech_drink_need_full_bottle2">
+        <text>What the hell are you trying to inflict on me? This...psychological trauma? Let's have a full one!</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_dialog_zatoncontra_snag_initial">
+        <text>Hey, I've got something. Would you like to take a little walk and earn some money at the same time?</text>
+    </string>
+
+    <string id="gunsl_dialog_zatoncontra_actor_0">
+        <text>What's the deal?</text>
+    </string>
+
+    <string id="gunsl_dialog_zatoncontra_actor_decline">
+        <text>I'm not up to it yet.</text>
+    </string>
+
+    <string id="gunsl_dialog_zatoncontra_snag_decline_reaction">
+        <text>As you want.</text>
+    </string>
+
+    <string id="gunsl_dialog_zatoncontra_snag_1">
+        <text>In general...word reached me that in a cave near the farm...you know, the one that's still on fire...there must be a strange artifact in there. Interested?</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_actor_1">
+        <text>Where did you hear this?</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_snag_2">
+        <text>Ha! Where'd you hear this, he says. You need to come to our bar more often. I was standing here a couple of days ago, emptying, you know, another glass... When suddenly I heard a conversation between Beard and one of the stalkers. At first I wasn't interested, but you just can’t shut Beard’s mouth! Then, Beard gave the man a tip on this artifact, he moves along...and that's it. Not a word from him since. And Beard isn't the type to just send people away, you know? This artifact is definitely there, and Beard wants it desperately, I can smell it. But he's tired of waiting for news and hasn’t sent anyone else after that stalker. You show up here with the artifact? Beard is a generous man, he'll pay well for such an unexpected gift. We can split the profits... Half for me, for the information. And half for you, for the work.</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_actor_2">
+        <text>Why don't you just go yourself? Then you won't have to share it with anyone.</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_snag_3">
+        <text>Eh man, you think I hadn't thought of that? Look at my suit. How long do you think I'll last inside that inferno? But your equipment is another matter entirely, just night and day!</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_snag_3a">
+        <text>What?! Man, are you even listening to me? I told you the stalker Beard sent disappeared completely! It must be dangerous in those caves, and I get nervous around closed spaces...I have claustrophobia... But you! You’re no stranger to climbing into all sorts of sewers! After all, you pulled my swag out of the ground. Even snorks couldn't stop you...</text>
+    </string>
+
+    <string id="gunsl_dialog_zatoncontra_actor_3">
+        <text>Okay. Why are you telling me this? I can take it to Beard myself, and cut you out of the deal...</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_snag_4">
+        <text>Not likely, you're an honest stalker...look how you helped me with the case. Anyone could have grabbed my swag and taken it for themselves! Well, what do you say? Just don't go around blabbing about the artifact, okay?</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_actor_4">
+        <text>Okay, I'll check it out.</text>
+    </string>
+
+    <string id="gunsl_zat_snag_controller_whats_new">
+        <text>Well, tell me.</text>
+    </string>
+
+    <string id="gunsl_dialog_zatoncontra_actor_final_1">
+        <text>I visited your cave... There was no artifact there, not even an anomaly. But you know who I did meet? A controller, you fucker! I almost left my brains on the cave walls because of that bastard! What do you say to that?</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_snag_final_1">
+        <text>What controller, man? What have you got? If you were there, then bring the artifact back and keep our agreement! Or you never went to that cave at all and decided to fool me, huh?!</text>
+    </string>
+
+    <string id="gunsl_dialog_zatoncontra_actor_final_2">
+        <text>And what would I get for this? Take out a damn controller and give you the artifact anyways, even if it wasn't even there? Would you like my share of the reward too, or should I shoot my head off for free and let you loot my corpse? Maybe I'll just shoot you instead, what do you think?</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_actor_final_2a">
+        <text>Give you the artifact? Look at you! I should put a bullet between your eyes for this! I had to pay for this gear and now I'll have to pay for the repairs. I'm not your errand boy, risking my head for free. Get the money!</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_actor_final_2b">
+        <text>Fool you, eh... Let's talk about who's fooling who. Beard said you took a job from him for this controller, so you knew perfectly well what was waiting for me inside the cave. And you definitely knew there was no artifact there. Send someone else to finish the job, then take the reward for yourself? That's called a setup, and you have to pay for setups. The Zone gives you a choice - pay with your money, or pay with your life. The choice is yours. Oh, and Beard won't be giving you any rewards in the future...in fact, he won't give you anything now.</text>
+    </string>
+
+    <string id="gunsl_dialog_zatoncontra_snag_final_2">
+        <text>What money, freak, you didn't do anything! Our agreement was simple - hand over the artifact, then divide the profit. No artifact - no money! And shooting on our ship is forbidden if you didn't know, so calm down before you're calmed down. In the end, if you didn’t go...I don’t want to have any more business with you. You seemed like a decent person...</text>
+    </string>
+
+    <string id="gunsl_dialog_zatoncontra_actor_final_3">
+        <text>You think you can just get away with things like this? You're wrong. The Skadovsk won't protect you forever, and someday you'll have to answer for everything. I can promise you that.</text>
+    </string>
+
+    <string id="gunsl_zat_snag_controller_fuckout">
+        <text>What do you want, thief? Conscience not tortured enough?</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_dialog_zatoncontra_actor_reward_initial">
+        <text>I have news. There was a controller not far from the Skadovsk.</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_boroda_reward_initial">
+        <text>Controller, you say... This is bad. By chance, was this thing holed up near the burnt farmstead?</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_actor_reward_1">
+        <text>In a cave on the hillside... Did you already know?</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_boroda_reward_2">
+        <text>Unfortunately, yes. Some of our guys stumbled upon it recently. Alas, not everyone was so lucky...one sacrificed himself so the others could make it back and warn the rest of us.</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_actor_reward_2">
+        <text>The controller is dead.</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_boroda_reward_good">
+        <text>I won't even ask how you handled it, I'm just glad it's dead! A good half of those who run into controllers end up riddled with their own lead, but you never hear about someone actually taking one down on their own and living to tell the tale... Here, this is the least we can do, for risking your mind like that. It's like you took a weight off everyone's soul here. At least now we can sleep a bit easier or look out the window without fear of turning into a zombie.</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_boroda_reward_disclosure">
+        <text>I won't even ask how you handled it, I'm just glad it's dead! A good half of those who run into controllers end up riddled with their own lead, but you never hear about someone actually taking one down on their own and living to tell the tale... Here, this is the least we can do, for risking your mind like that. By the way, someone had already taken the job for this controller, his name is Snag. You should let him know the job's done since it's not a danger anymore.</text>
+    </string>
+    <string id="gunsl_dialog_zatoncontra_boroda_reward_bad">
+        <text>Yes, I heard. I see Snag's been bragging to you too? These young guys are replacing us pretty quick, eh? Think about it, just yesterday I told him about this problem, and today he's already solved it! Good for him, he'll go far for sure...though, you couldn't tell from just looking at him.</text>
+    </string>
+
+<!-- -->
+    <string id="zat_a2_linker_b29_actor_get_adv_task_112cheat">
+        <text>Bring that thing over here! I'm waiting... Hmm? What happened? Can't find another artifact in your backpack? That's a pity. If you suddenly find one though, come on in. Although... You know what, perhaps you've already brought me enough. But I have orders for others artifacts if you're interested.</text>
+    </string>
+    <string id="zat_b30_owl_stalker_trader_buy_info_11111_cheat">
+        <text>You want this? Come back when you've saved up.</text>
+    </string>
+    <string id="zat_b30_owl_stalker_trader_buy_info_13111_cheat">
+        <text>I'm afraid I won't. Come back when you've saved up.</text>
+    </string>
+    <string id="zat_b30_owl_stalker_trader_buy_info_12111_cheat">
+        <text>You want this? Come back when you've saved up.</text>
+    </string>
+    <string id="zat_b30_owl_stalker_trader_buy_info_15311_cheat">
+        <text>You want this? Come back when you've saved up.</text>
+    </string>
+    <string id="zat_b30_owl_stalker_trader_buy_info_15211_cheat">
+        <text>You want this? Come back when you've saved up.</text>
+    </string>
+    <string id="zat_b30_owl_stalker_trader_buy_info_15411_cheat">
+        <text>You want this? Come back when you've saved up.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_dialog_mercoutfit_act_0">
+        <text>I need a mercenary outfit. Know where I could get one?</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_merc_1_1">
+        <text>Haha, you're not the only one in need here! Why do you need one?</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_act_2_1">
+        <text>I want to have the most balanced equipment in the Zone.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_2_2">
+        <text>I want to become a mercenary.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_2_3">
+        <text>I need to sneak into the mercenary camp.</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_merc_3_1">
+        <text>Well, yes, our gear provides first-class protection against bullets, and the ergonomics are top notch. Only it was made for operations in combat zones, not working around anomalies. Are you not a stalker? Seems to me like you'd sell your soul for another artifact, or am I seeing things? So tell me, why do you need our suit? Quickly now!</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_merc_3_2">
+        <text>Look in the mirror first. You call yourself a mercenary? You'll turn to dust on the first contract! Even if you don't, you'll be a liability to the rest of the group, just a minefield of mistakes for us to step on. Or maybe you're trying to get yourself killed, but...it doesn't seem like suicide... Come on, why do you need a suit? Quickly now!</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_merc_3_3">
+        <text>Ah, there it is! Well, stalker, you've come to the right place. Come to our camp and we'll get you sorted now.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_merc_3_4">
+        <text>So you take us for idiots, then! Let's end this!</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_act_4_1_2">
+        <text>I already have a suit for walking through anomalies, but I still need to get to them. Artifacts aren't easy to find and there's plenty of bandits everywhere. I need gear that, by its very appearance, would discourage them from trying to mess with me.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_4_2_2">
+        <text>Why do you care? I've been here more than a year now and I'm aware of the dangers. Anomaly research is a lottery without winners. Artifacts are few and hunters are many, and when you do find one the profits are barely enough to cover food and repairs.</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_act_4_1_1">
+        <text>We hear legends about your equipment, that it can stop any bullet or let you dodge whatever it doesn't. So I want to try it out.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_4_2_1">
+        <text>I'm telling it like it is. I want to become a mercenary. I'm tired of crawling through anomalies for artifacts that are hardly ever there.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_4_3">
+        <text>Truthfully? I need to get into the waste processing station, but another group of mercenaries has settled in there. It’s impossible to reach an agreement with them, these guys shoot at anyone who comes too close. I want to try to get into their camp with one of their own outfits.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_4_4">
+        <text>Understood.</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_merc_5_1">
+        <text>So you take us for idiots, then! Let's end this!</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_merc_5_2">
+        <text>Okay stalker, listen. We had no plans to setup camp in this hole. At least...not until we got hit by an emission at the crossing, damn it! We only had a few minutes, maybe less. It wasn't enough to just be quick, we had to dead sprint the whole way, but the gear we were carrying...well, it wasn't helping things. Given our options I ordered the guys to drop whatever they didn't need, planning to pick it back up later, but...things just didn't come together.</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_act_6_1">
+        <text>No, wait! I'll explain everything now.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_6_2">
+        <text>I can go get your gear. Can you show me on the map approximately where you left it?</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_merc_7_1">
+        <text>I can show you, but there's no point. After the emission I sent some guys for it. They combed the area three times, but the gear was gone and any trace of it had gone cold. Obviously some bastard got to it first. If I knew who, I'd shoot them myself, but there wasn't a clue and there's not enough ammo to shoot everyone left and right to find out. That's the military's job, not ours. Let them cleanse the Zone.</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_act_8_1">
+        <text>I can try to track down whoever took your gear.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_8_2">
+        <text>So, you need more provisions?</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_8_3">
+        <text>Let's be more specific. What help do you need?</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_merc_9_1">
+        <text>It'd be very useful to find this monster, but it's not a priority. Besides, I'm almost sure he would've immediately pawned our stuff to some trader anyways. Unless he died halfway to the counter under the weight of happiness he stumbled across out there.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_merc_9_2">
+        <text>To be honest, I don't care about canned stuff or other grub. We definitely wouldn't be here without food, but in extreme cases, we can always catch some stalker like you and fry over low heat... I'm kidding, relax.</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_act_10_1">
+        <text>Then what kind of help do you need?</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_merc_11_1">
+        <text>In short, we desperately need suits to work in anomalous areas. You know the SSP-99? They're the best suits in their class for that stuff, unsurpassed protection against acid, radiation, all that shit that's more common than dirt in the Zone. Problem is, they're not very popular with stalkers because they can't take a bullet... But they were made nonetheless, just not for getting shot at. We had two of them and they've both disappeared now. If you find one, bring it to us. In exchange, we'll give you a set of the best professional equipment in the Zone.</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_act_12_1">
+        <text>Okay, I'll try to find some suits.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_act_12_2">
+        <text>I don't have time to do this right now.</text>
+    </string>
+
+    <string id="gunsl_dialog_mercoutfit_merc_13_1">
+        <text>Fine. When you find it, bring it to me. And don't forget to patch it up if you break it along the way.</text>
+    </string>
+    <string id="gunsl_dialog_mercoutfit_merc_13_2">
+        <text>Suit yourself. Then look for your gear elsewhere.</text>
+    </string>
+
+    <string id="gunsl_dialog_aboutoutfit_act_0">
+        <text>Why do you need scientific suits?</text>
+    </string>
+    <string id="gunsl_dialog_aboutoutfit_merc_1">
+        <text>None of your business, stalker. The less you know, the better you'll sleep.</text>
+    </string>
+
+    <string id="gunsl_dialog_hasmercoutfit_act_0">
+        <text>I've brought a scientific suit. Take a look.</text>
+    </string>
+    <string id="gunsl_dialog_hasmercoutfit_merc_1_1">
+        <text>Give it here... Yes, this is what we need.</text>
+    </string>
+    <string id="gunsl_dialog_hasmercoutfit_merc_1_2_1">
+        <text>Come on...it's full of holes! It's not going to protect anything! This won't work, we need a good one.</text>
+    </string>
+    <string id="gunsl_dialog_hasmercoutfit_merc_1_2_2">
+        <text>Well, well... If we put you in this and dip you headlong into a Fruit Punch anomaly, how long do you think you'll last? Come on, bring a fixed one. It's in your own interest.</text>
+    </string>
+    <string id="gunsl_dialog_hasmercoutfit_merc_1_3">
+        <text>Hmm, let's see... No, this isn't the right one. We need an SSP-99, it's sometimes called an Ecologist suit.</text>
+    </string>
+
+    <string id="gunsl_dialog_firstoutfitgot_act_0">
+        <text>What about the equipment?</text>
+    </string>
+    <string id="gunsl_dialog_firstoutfitgot_merc_1">
+        <text>Not so fast, stalker. Did you forget we had two of these suits? You brought one, now bring a second. If you get it, we'll talk then.</text>
+    </string>
+
+    <string id="gunsl_dialog_firstoutfitgot_act_2_1">
+        <text>Understood, I'll get a second suit.</text>
+    </string>
+    <string id="gunsl_dialog_firstoutfitgot_act_2_2">
+        <text>Wait, we agreed on one suit, didn't we? A deal's a deal, give me the outfit!</text>
+    </string>
+    <string id="gunsl_dialog_firstoutfitgot_act_2_3">
+        <text>We didn't agree on a second suit. You choose. Give me what I need, or I take what's off your corpse!</text>
+    </string>
+
+    <string id="gunsl_dialog_firstoutfitgot_merc_3_1">
+        <text>Hmm... Okay, you've persuaded me. You did help us out, after all. Here you are. Not new, of course. A little worn but still very good in this condition.</text>
+    </string>
+    <string id="gunsl_dialog_firstoutfitgot_merc_3_2">
+        <text>I am the master of my word. I give my word, and take my word. I say, bring the second jumpsuit. Surely he stashed it somewhere? If you bring it, we'll have a reward waiting for you. But until you do, don't ask about our equipment anymore, or I'll shoot you like some annoying rodent.</text>
+    </string>
+    <string id="gunsl_dialog_firstoutfitgot_merc_3_3">
+        <text>You want to do business? I'll show you business!</text>
+    </string>
+
+    <string id="gunsl_dialog_has2ndmercoutfit_act_0">
+        <text>I brought the second suit. Can you finally get the equipment you promised?</text>
+    </string>
+    <string id="gunsl_dialog_has2ndmercoutfit_merc_1_1">
+        <text>Great job, stalker! You wanted our outfit? Here you are. Brand new. The fly doesn't always work, but it'll do the job in battle as much as any parade.</text>
+    </string>
+    <string id="gunsl_dialog_has2ndmercoutfit_merc_1_2">
+        <text>Did you take this off a corpse? There are holes! You can wear it, my guys rely on suits that can hold pressure.</text>
+    </string>
+    <string id="gunsl_dialog_has2ndmercoutfit_merc_1_3">
+        <text>Are you crazy? We asked for some SSP-99 suits, but what did you bring? This won't work, we don't need it.</text>
+    </string>
+
+    <string id="gunsl_zat_b103_merc_dialog_cancelled_second_outfit_act_0">
+        <text>From what I understand, you no longer need a second scientific suit, but I already brought you one. Don't you think you owe me?</text>
+    </string>
+	
+    <string id="gunsl_zat_b103_merc_dialog_cancelled_second_outfit_npc_1">
+        <text>Okay stalker, fair point. You're right, we don't need a second suit anymore, but you did still help us. Here, take the gear. It's a little worn, of course, but it'll do.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_quest_merc_sci_outfit_act_0">
+        <text>Do you know where I can get a SSP-99 protective suit?</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_1_stk">
+        <text>Hmm...a scientific one...check with the scientists.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_2_stk">
+        <text>Nope, haven't seen those.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_3_stk">
+        <text>I don't know, I don't need one.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_4_stk">
+        <text>A rare thing. Check with Nimble on the Skadovsk, he's our specialist when it comes to finding this stuff.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_1_freedom">
+        <text>Nope. Go to the scientists, they'll tell you.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_2_freedom">
+        <text>No, man. You'd better ask Hawaiian in Yanov. Rumor has it he can find anything.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_3_freedom">
+        <text>I don't know, they're not very popular with us.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_1_duty">
+        <text>No, stalker. I don't have such information.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_2_duty">
+        <text>Try the scientists, they definitely had some.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_3_duty">
+        <text>I don't know, we don't have any.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_1_bandit">
+        <text>No, bro, you definitely don't want me for this.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_2_bandit">
+        <text>I saw some jerk in one the other day, but where he is now...I don't know. Look for yourself.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_npc_1_3_bandit">
+        <text>No idea, in our business we're not worried about the weather.</text>
+    </string>
+
+    <string id="gunsl_quest_common_npc_unknown">
+        <text>I would ask someone else, stalker.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_quest_merc_sci_outfit_ask_novikov_act_0">
+        <text>Do you know where I can get a SSP-99 protective suit?</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_novikov_npc_1">
+        <text>I'm familiar with it but we don't have any in stock. Our researchers used to work in them, until expeditions switched to the newer SSP-99M model, which has some extra protection against bullets and mutant claws. The old SSP-99 wasn't good for either of those, and I'm not sure who else was using them.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_quest_merc_sci_outfit_ask_sci_act_0">
+        <text>Do you know where I can get a SSP-99 protective suit?</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_sci_npc_1">
+        <text>Hmm... No, young man, we haven't worked with that model for a long time. Our experience with them proved that, despite excellent performance in anomalies, they were insufficient against the mutant and man-made dangers that are all too common in the Zone. We only use the SSP-99M now, which is more durable.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_quest_merc_sci_outfit_ask_gavaets_act_0">
+        <text>I need a SSP-99 protective suit. Do you happen to have one of those?</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_gavaets_npc_1_1">
+        <text>Nope, they're too specialized. Fighting in one is pure suicide, so they're not in high demand. They don't protect from mutant claws either, so stalkers aren't particularly interested. Since there's no demand, it's not profitable for me to trade them.</text>
+    </string>
+	
+    <string id="gunsl_quest_merc_sci_outfit_ask_gavaets_npc_1_2">
+        <text>You know, you're in luck! I have one in stock. I got it for a penny from some decommissioned scientific reserves, hehe. Whoever passed it up, I'm not sure, but they weren't particularly bright.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_0">
+        <text>I need a SSP-99 protective suit. Do you happen to have one of those?</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_1_1">
+        <text>I do. Not the most popular product but you're in luck, some stalker brought it in the other day. There's a catch though - I haven't had time to patch it up yet, so the condition is only so-so... Tell you what, I'll give you a discount. 20,000 and it's yours.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_1_1b">
+        <text>You said a stalker brought it to you? Can you tell me who it was?</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_1_1c">
+        <text>I don't give up my clients or suppliers, and I try not to get involved in their business, so I have nothing to say. A stalker is a stalker, of which there are many around the Skadovsk. The main thing for me is that the goods are high quality, and no parts of the previous owner are left inside. Do you want it?</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_1_2">
+        <text>Still there - the same one, for 20,000.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_1_3">
+        <text>No, I don't have any more of those.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_2_1">
+        <text>Okay, I'm sold. I'll take it.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_2_2">
+        <text>Too expensive for a suit that still needs repairs as well. I'm guessing you bought it for 5,000? If you drop the price to 10,000, I'll buy it right now.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_2_3">
+        <text>How about a discount?</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_2_4">
+        <text>Too expensive.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_2_5">
+        <text>I need time to think about this.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_2_6">
+        <text>Listen, I need this suit in order to exchange it for a mercenary outfit. And I need that outfit to sneak into the mercenary camp you asked me to. Let me get the suit for free, or at least at cost. That's in your best interest too.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_3_1">
+        <text>Nice, take it. You won't regret it.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_3_1_cheat">
+        <text>Save up some money first, then we'll talk.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_3_2">
+        <text>No go. These are rare and very specific, you'll hardly find it cheaper anywhere else. So for you, 20,000 and not a penny less.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_3_3">
+        <text>No go. For you - 20,000.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_3_4">
+        <text>Well now you're just going overboard. Am I supposed to work at a loss? But okay, for future cooperation, so be it. I'll sell it for 15,000. But that's only if you pick it up right now. If you wait, the price will go up.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_3_5">
+        <text>As you know, you won't find one cheaper. And if you wait, someone else will buy it, because 20,000 for this suit is almost nothing. So what do you want to do?</text>
+    </string>
+	
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_3_6">
+        <text>You think for a long time, someone else will buy it.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_3_7">
+        <text>So what? I mostly don't care why you want that suit. Think about it. Tomorrow these same mercenaries can put you in the ground, and I'll be left at a net loss, with no information and no suit to boot. So no, that won't work. Mercenaries are mercenaries, and suits are suits. These are different and unrelated entities for me. In the end, you can always get the information a different way. The choice is yours. So. Do you want the suit or not?</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_4_1">
+        <text>Okay, that works.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_4_2">
+        <text>It's still too expensive, I'm ready to take it for a maximum of 10,000. Think about it - who else would you sell this to? It'll gather dust under the counter for weeks and take up space for nothing. If I take it, you won't be at a loss, and you won't need to invest in repairs for it.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_act_4_3">
+        <text>I'll think about it.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_5_1">
+        <text>Take it.</text>
+    </string>
+    
+	<string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_5_1_cheat">
+        <text>This is fun - I don't have a penny in my pocket, yet they ask for a discount! It won't work. Save up, then we'll talk. And you can forget about the discount, serious people don't do business like that.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_5_2">
+        <text>What?! Okay, you've persuaded me, take it for 10,000.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_5_2_cheat">
+        <text>This is fun - I don't have a penny in my pocket, yet they ask for a discount! It won't work. Save up, then we'll talk. And you can forget about the discount, serious people don't do business like that.</text>
+    </string>
+
+    <string id="gunsl_quest_merc_sci_outfit_ask_owl_npc_5_3">
+        <text>What?! How disrespectful can you be? 20,000, and not a penny less! If you don't take it, someone else will. I have many clients.</text>
+    </string>
+<!-- -->
+    <string id="gunsl_quest_merc_sci_outfit_ask_boroda_act_0">
+        <text>Do you know where I can get a SSP-99 protective suit?</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_ask_boroda_npc_1">
+        <text>Hmm... That's a rare sight around here. Although...yes, some stalker did just come through here a couple of days ago wearing one of those. Sold me a bunch of canned stew and rations, then drank until he passed out. He was boasting about having a whole warehouse full of suits like those. Somehow I doubt the truthfulness of his words, but it's worth asking him anyways - he might not be joking.</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_ask_boroda_act_2">
+        <text>Thanks for the tip. How can I find him?</text>
+    </string>
+    <string id="gunsl_quest_merc_sci_outfit_ask_boroda_npc_3">
+        <text>Well, I couldn't tell you now - I haven't seen him since. But I don't think he went far. Check around the Skadovsk. A suit like that wouldn't be hard to miss.</text>
+    </string>
+<!-- -->
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_special_act_0">
+        <text>I'm looking for a rare item. Think you can help?</text>
+    </string>
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_special_npc_1">
+        <text>Rare things are my specialty. What did you need?</text>
+    </string>
+	
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_special_act_2">
+        <text>Ah, nothing. Forget it.</text>
+    </string>	
+
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_special_act_3_1">
+        <text>Okay.</text>
+    </string>
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_special_act_3_2">
+        <text>Too expensive for me.</text>
+    </string>
+	
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_special_npc_4_1">
+        <text>Okay! I'll let you know when your order's ready.</text>
+    </string>
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_special_npc_4_2">
+        <text>Think about it, of course. If you ever decide to order - let me know.</text>
+    </string>
+
+	
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_sci_outfit_act_0">
+        <text>SSP-99 scientific suit.</text>
+    </string>
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_sci_outfit_npc_1_1">
+        <text>Ah yes, I haven't seen one of those in a long time. Let me think... I have one guy, a scientist from a lab in Yantar, so I can probably get one. But it'll cost 40,000, with 5,000 as a deposit now. I can't guarantee how quickly I can get it either.</text>
+    </string>
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_sci_outfit_npc_1_2">
+        <text>Ah yes, I haven't seen one of those in a long time. Let me think... I have one guy, a scientist from a lab in Yantar, so I can probably get one. But you haven't been the most reliable buyer, so it'll cost you 45,000, with a 10,000 deposit up front. I can't guarantee how quickly I can get it either.</text>
+    </string>
+    <string id="gunsl_quest_zat_b51_stalker_nimble_about_sci_outfit_npc_1_3">
+        <text>I'm afraid it's not possible. Last time, scientists rummaged through an entire warehouse for you, and that was the only suit they found.</text>
+    </string>
+	
+    <string id="gunsl_quest_zat_b51_stalker_nimble_get_sci_outfit_npc_0">
+        <text>Have a look. It wasn't easy, but we managed to find one suit. 35,000, and it's yours.</text>
+    </string>
+
+<!--
+    <string id="">
+        <text></text>
+    </string>
+-->
+</string_table>
