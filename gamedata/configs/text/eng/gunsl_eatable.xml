@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_eatable_antidot">
+		<text>IP2 Antidote</text>
+	</string>
+	<string id="gunsl_eatable_antidot_descr">
+		<text>The IP2 antitoxin is a complex blend of pharmaceuticals that are believed to help mitigate the effects of various poisonings. The ingredients, such as metoclopramide, pyridoxine, thiamine, riboxinum, and others, work in combination to proactively treat a range of natural and synthetic toxins in the body. It also has a neutralizing effect on narcotic or medication overdoses. Effects are long-lasting, which makes it somewhat unpopular in the Zone, as most stalkers prefer to rely on a gas mask and protective suit instead.\n\nDoses remaining: %c[01,0,255,0] 3 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_antidot_descr2">
+		<text>The IP2 antitoxin is a complex blend of pharmaceuticals that are believed to help mitigate the effects of various poisonings. The ingredients, such as metoclopramide, pyridoxine, thiamine, riboxinum, and others, work in combination to proactively treat a range of natural and synthetic toxins in the body. It also has a neutralizing effect on narcotic or medication overdoses. Effects are long-lasting, which makes it somewhat unpopular in the Zone, as most stalkers prefer to rely on a gas mask and protective suit instead.\n\nDoses remaining: %c[01,255,255,0] 2 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_antidot_descr3">
+		<text>The IP2 antitoxin is a complex blend of pharmaceuticals that are believed to help mitigate the effects of various poisonings. The ingredients, such as metoclopramide, pyridoxine, thiamine, riboxinum, and others, work in combination to proactively treat a range of natural and synthetic toxins in the body. It also has a neutralizing effect on narcotic or medication overdoses. Effects are long-lasting, which makes it somewhat unpopular in the Zone, as most stalkers prefer to rely on a gas mask and protective suit instead.\n\nDoses remaining: %c[01,255,0,0] 1 %c[01,255,255,255]</text>
+	</string>
+
+	<string id="gunsl_eatable_coagulant">
+		<text>Vikasolum</text>
+	</string>
+	<string id="gunsl_eatable_coagulant_descr">
+		<text>Vikasolum is a synthetic analogue of vitamin K and works as a coagulant in the body, increasing clotting speed. It's coveted among stalkers for its ability to slow the bleeding of lacerations, gunshots, and other open wounds. Effects are long-lasting. Not recommended to be taken with alcohol as unintended side effects can occur.\n\nDoses remaining: %c[01,0,255,0] 3 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_coagulant_descr2">
+		<text>Vikasolum is a synthetic analogue of vitamin K and works as a coagulant in the body, increasing clotting speed. It's coveted among stalkers for its ability to slow the bleeding of lacerations, gunshots, and other open wounds. Effects are long-lasting. Not recommended to be taken with alcohol as unintended side effects can occur.\n\nDoses remaining: %c[01,255,255,0] 2 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_coagulant_descr3">
+		<text>Vikasolum is a synthetic analogue of vitamin K and works as a coagulant in the body, increasing clotting speed. It's coveted among stalkers for its ability to slow the bleeding of lacerations, gunshots, and other open wounds. Effects are long-lasting. Not recommended to be taken with alcohol as unintended side effects can occur.\n\nDoses remaining: %c[01,255,0,0] 1 %c[01,255,255,255]</text>
+	</string>
+	
+	<string id="gunsl_eatable_medkit">
+		<text>AI-2 First Aid Kit</text>
+	</string>
+	<string id="gunsl_eatable_medkit_descr">
+		<text>A single-use universal medical kit, intended to treat some of the most common injuries any individual could receive. The contents include a variety of antibacterial, analgesic, radioprotective, and antiemetic medications. The painkillers are particularly strong, and when taken frequently or in combination with alcohol, can lead to addiction with other side effects. It's recommended to seek out a medical professional for treatment if this occurs. Despite the risk, these kits are always popular with stalkers due to their low cost and sufficient provisions for most trauma management.</text>
+	</string>	
+	
+	<string id="gunsl_eatable_medkit_army">
+		<text>Military First Aid Kit</text>
+	</string>
+	<string id="gunsl_eatable_medkit_army_descr">
+		<text>A single-use trauma kit for treating injuries on the battlefield. Comes with hemostatic gauze dressings, along with caplets of tranexamic acid for coagulation, ibuprofen painkillers, tetracycline-based antibiotics, and beta-glucan immunity boosters. Moreover, a simple surgical kit for extracting shrapnel and bullets is included. It's advised to avoid using its contents on a regular basis or in conjunction with alcohol, as this can result in unintended side effects.</text>
+	</string>
+
+	<string id="gunsl_eatable_medkit_science">
+		<text>Scientific First Aid Kit</text>
+	</string>
+	<string id="gunsl_eatable_medkit_science_descr">
+		<text>A single-use, specialized medical kit designed specifically for scientists working in the Zone. Contains a variety of treatment options for both mechanical injuries and radiation poisoning, as well as methods for reducing the amount of accumulated radiation in the body. Unlike standard kits, this one contains Vikasolum, Batilolum and Naphazoline. The included medications were chosen in such a way that the possibility of side effects and overdose is minimized. However, extreme caution should be exercised when used in conjunction with other drugs, and they should never be combined with alcohol.</text>
+	</string>
+
+	<string id="gunsl_eatable_psy_blockade">
+		<text>Psy-block</text>
+	</string>
+	<string id="gunsl_eatable_psy_blockade_descr">
+		<text>A powerful opioid-based narcotic that blocks avalanche-like nerve impulses. Interestingly, the effect also causes the user to temporarily but completely lose all emotion, which researchers have found counteracts much of the psi-activity associated with certain anomalous fields in the Zone. It hasn't proved effective in any other application. Additional water intake is recommended as the effects are long-lasting and can distract the user from the symptoms of dehydration. Excessive usage, especially in combination with alcohol, can have severe unintended side effects and even lead to death.\n\nDoses remaining: %c[01,0,255,0] 3 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_psy_blockade_descr2">
+		<text>A powerful opioid-based narcotic that blocks avalanche-like nerve impulses. Interestingly, the effect also causes the user to temporarily but completely lose all emotion, which researchers have found counteracts much of the psi-activity associated with certain anomalous fields in the Zone. It hasn't proved effective in any other application. Additional water intake is recommended as the effects are long-lasting and can distract the user from the symptoms of dehydration. Excessive usage, especially in combination with alcohol, can have severe unintended side effects and even lead to death.\n\nDoses remaining: %c[01,255,255,0] 2 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_psy_blockade_descr3">
+		<text>A powerful opioid-based narcotic that blocks avalanche-like nerve impulses. Interestingly, the effect also causes the user to temporarily but completely lose all emotion, which researchers have found counteracts much of the psi-activity associated with certain anomalous fields in the Zone. It hasn't proved effective in any other application. Additional water intake is recommended as the effects are long-lasting and can distract the user from the symptoms of dehydration. Excessive usage, especially in combination with alcohol, can have severe unintended side effects and even lead to death.\n\nDoses remaining: %c[01,255,0,0] 1 %c[01,255,255,255]</text>
+	</string>
+	
+	<string id="gunsl_eatable_radioprotector">
+		<text>Radioprotectant</text>
+	</string>
+	<string id="gunsl_eatable_radioprotector_descr">
+		<text>B-190 Indralin was originally included with the first aid kits issued to nuclear power plant personnel, however its use quickly spread after the Zone's designation and replaced the excessively toxic cystamine hydrochloride (PC1), repeated use of which often caused death. Reduces the effects of gamma radiation on the body and is best taken before exposure, as it takes time to be absorbed fully. Effects are long-lasting and may incur side effects when taken with alcohol.\n\nDoses remaining: %c[01,0,255,0] 3 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_radioprotector_descr2">
+		<text>B-190 Indralin was originally included with the first aid kits issued to nuclear power plant personnel, however its use quickly spread after the Zone's designation and replaced the excessively toxic cystamine hydrochloride (PC1), repeated use of which often caused death. Reduces the effects of gamma radiation on the body and is best taken before exposure, as it takes time to be absorbed fully. Effects are long-lasting and may incur side effects when taken with alcohol.\n\nDoses remaining: %c[01,255,255,0] 2 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_radioprotector_descr3">
+		<text>B-190 Indralin was originally included with the first aid kits issued to nuclear power plant personnel, however its use quickly spread after the Zone's designation and replaced the excessively toxic cystamine hydrochloride (PC1), repeated use of which often caused death. Reduces the effects of gamma radiation on the body and is best taken before exposure, as it takes time to be absorbed fully. Effects are long-lasting and may incur side effects when taken with alcohol.\n\nDoses remaining: %c[01,255,0,0] 1 %c[01,255,255,255]</text>
+	</string>
+	
+	<string id="gunsl_eatable_vodka">
+		<text>Russian vodka</text>
+	</string>	
+	<string id="gunsl_eatable_vodka_descr">
+		<text>Goes down easily and significantly reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation.\n\nRemaining servings in bottle: %c[01,0,255,0] 4 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_vodka_descr2">
+		<text>Goes down easily and significantly reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation.\n\nRemaining servings in bottle: %c[01,255,255,0] 3 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_vodka_descr3">
+		<text>Goes down easily and significantly reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation.\n\nRemaining servings in bottle: %c[01,255,128,0] 2 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_vodka_descr4">
+		<text>Goes down easily and significantly reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation.\n\nRemaining servings in bottle: %c[01,255,0,0] 1 %c[01,255,255,255]</text>
+	</string>
+	
+	<string id="gunsl_eatable_water">
+		<text>Water</text>
+	</string>
+	<string id="gunsl_eatable_water_descr">
+		<text>Clean spring water, refreshing and invigorating. Relieves thirst.\n\nRemaining servings in bottle: %c[01,0,255,0] 4 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_water_descr2">
+		<text>Clean spring water, refreshing and invigorating. Relieves thirst.\n\nRemaining servings in bottle: %c[01,255,255,0] 3 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_water_descr3">
+		<text>Clean spring water, refreshing and invigorating. Relieves thirst.\n\nRemaining servings in bottle: %c[01,255,128,0] 2 %c[01,255,255,255]</text>
+	</string>
+	<string id="gunsl_eatable_water_descr4">
+		<text>Clean spring water, refreshing and invigorating. Relieves thirst.\n\nRemaining servings in bottle: %c[01,255,0,0] 1 %c[01,255,255,255]</text>
+	</string>
+	
+	<string id="gunsl_eatable_antirad">
+		<text>Anti-radiation drugs</text>
+	</string>
+	<string id="gunsl_eatable_antirad_descr">
+		<text>Mexamine radioprotectant single-use doses are commonly found throughout the Zone. When injected, it constricts the peripheral blood vessels and induces oxygen deprivation at the cellular level, serving to both treat and prevent the effects of radiation sickness. Well tolerated by most people, though cases of nausea, dizziness, pain, and vomiting have been reported.</text>
+	</string>
+	
+	<string id="gunsl_eatable_bandage">
+		<text>Bandage</text>
+	</string>
+	<string id="gunsl_eatable_bandage_descr">
+		<text>A sterile gauze bandage with topical antibiotics, used in treating any severity of bleeding and reducing the accompanied risk of infection. Most injuries can be addressed with a simple wrap, however any damage to an artery may require multiple applications and significant pressure for bleeding to be brought under control.</text>
+	</string>
+	
+	<string id="gunsl_eatable_anabiotic">
+		<text>Anabiotic</text>
+	</string>
+	<string id="gunsl_eatable_anabiotic_descr">
+		<text>An experimental drug created for use by research expeditions in the Zone. Tetrodotoxin is the most contentious of the various pharmaceuticals in each dose, and its unconventional use here has earned it the colloquial nickname "zombie powder." Once administered, the user is rendered unconscious by a complete and total shutdown of the central nervous system. The intention was to allow someone stranded out of cover to potentially survive an emission, but due to a lack of both clinical and field testing, its claims of effectiveness are dubious at best and may come with additional side effects.</text>
+	</string>
+	
+	<string id="gunsl_eatable_booster">
+		<text>Hercules</text>
+	</string>
+	<string id="gunsl_eatable_booster_descr">
+		<text>The anabolic steroids in this shot have a chemically similar composition to testosterone, a product which has fallen in favor with stalkers looking to carry heavy burdens throughout the Zone. When consumed, it provides a temporary but significant reduction in muscle fatigue, allowing users to ultimately carry more for longer. Effects are long-lasting.
+	</string>
+	
+	<string id="gunsl_eatable_energy_drink">
+		<text>Energy drink</text>
+	</string>
+	<string id="gunsl_eatable_energy_drink_descr">
+		<text>Often used by stalkers on long trips when no breaks can be afforded. Contains caffeine, easily digestible carbohydrates, B-vitamins, and various supplements to give a strong adrenaline rush.</text>
+	</string>
+	
+	<string id="gunsl_eatable_bread">
+		<text>Bread</text>
+	</string>
+	<string id="gunsl_eatable_bread_descr">
+		<text>It's not known who manages to bake these loaves in the Zone, or how they're snuck in through the perimeter. However, its neither contaminated nor radioactive, and none of the stalker have complained.</text>
+	</string>
+	
+	<string id="gunsl_eatable_kolbasa">
+		<text>Diet sausage</text>
+	</string>
+	<string id="gunsl_eatable_kolbasa_descr">
+		<text>Made from a mix of chicken and soybeans, this "diet" sausage is often, for lack of other options, a stalker's breakfast, lunch, and dinner in one. Very filling, with a high preservatives content to keep it from spoiling.</text>
+	</string>
+	
+	<string id="gunsl_eatable_conserva">
+		<text>Canned food</text>
+	</string>
+	<string id="gunsl_eatable_conserva_descr">
+		<text>Many of the canned foods in the Zone were looted by stalkers from army warehouses and ration depots. The labels have long since worn off, making each one a gamble on its contents, however most are a form of spiced, minced pork known as "Tourist's Delight". More importantly, the stamped use-by date has yet to expire.</text>
+	</string>
+	
+</string_table>
+
