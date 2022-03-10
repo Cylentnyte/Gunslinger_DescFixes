@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_gunsl_strelok_secret">
+		<text>Stash from an unlocked module</text>
+	</string>
+	<string id="ui_gunsl_tech_needs_additional_materials">
+		<text>The technician needs radio parts before he'll install this upgrade. Rumors suggest there may be some at the cement plant. You should bring back any you find there.</text>
+	</string>
+	<string id="ui_gunsl_mod_corrupted">
+		<text>Mod files are corrupted, game cannot load! \nWe recommend running CheckUpdates.exe to try and fix any problems, or reinstall the mod.</text>
+	</string>
+	<string id="ui_gunsl_move_corpse">
+		<text>Drag corpse (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_gunsl_move_object">
+		<text>Drag item (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="gunsl_achievement_stealthy_stalker_name">
+		<text>Master Shapeshifter</text>
+	</string>
+	<string id="gunsl_achievement_stealthy_stalker_descr">
+		<text>As an experienced stalker, you know all too well that today's ally can turn into tomorrow's enemy - and vice versa. When performing tasks, you try not to draw attention to yourself, and look for bloodless ways of achieving your goals whenever possible.</text>
+	</string>
+	<string id="gunsl_achievement_stealthy_stalker_hint">
+		<text>Owl will now offer silencers for almost any weapon found in the Zone.</text>
+	</string>
+	<string id="gunsl_achievement_stealthy_stalker_reached">
+		<text>Achievement "Master Shapeshifter"</text>
+	</string>
+</string_table>
