@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_keys_movement">
+		<text>Movement</text>
+	</string>	
+	<string id="gunsl_keys_move_forward">
+		<text>Forward</text>
+	</string>	
+	<string id="gunsl_keys_move_back">
+		<text>Backward</text>
+	</string>	
+	<string id="gunsl_keys_move_left">
+		<text>Left</text>
+	</string>	
+	<string id="gunsl_keys_move_right">
+		<text>Right</text>
+	</string>
+	<string id="gunsl_keys_jump">
+		<text>Jump</text>
+	</string>
+	<string id="gunsl_keys_crouch">
+		<text>Crouch</text>
+	</string>
+	<string id="gunsl_keys_accel">
+		<text>Walk / low-crouch</text>
+	</string>
+	<string id="gunsl_keys_sprint">
+		<text>Sprint</text>
+	</string>
+	<string id="gunsl_keys_weapon">
+		<text>Weapons</text>
+	</string>
+	<string id="gunsl_keys_fire">
+		<text>Fire</text>
+	</string>
+	<string id="gunsl_keys_zoom">
+		<text>Aim down sight / zoom PDA</text>
+	</string>
+	<string id="gunsl_keys_alter_zoom">
+		<text>Backup sight</text>
+	</string>	
+	<string id="gunsl_keys_reload">
+		<text>Reload</text>
+	</string>
+	<string id="gunsl_keys_grenade_launcher">
+		<text>Underbarrel grenade launcher</text>
+	</string>
+	<string id="gunsl_keys_firemode_next">
+		<text>Next firing mode</text>
+	</string>
+	<string id="gunsl_keys_firemode_prev">
+		<text>Previous firing mode</text>
+	</string>
+	<string id="gunsl_keys_changeammo">
+		<text>Change ammo type</text>
+	</string>
+	<string id="gunsl_keys_laser">
+		<text>Laser</text>
+	</string>
+	<string id="gunsl_keys_torch">
+		<text>Tactical flashlight</text>
+	</string>	
+	<string id="gunsl_keys_inventory">
+		<text>Inventory</text>
+	</string>
+	<string id="gunsl_keys_open_inventory">
+		<text>Open inventory</text>
+	</string>
+	<string id="gunsl_keys_open_pda">
+		<text>Open PDA</text>
+	</string>
+	<string id="gunsl_keys_drop">
+		<text>Drop / abort</text>
+	</string>
+	<string id="gunsl_keys_headlight">
+		<text>Headlamp</text>
+	</string>
+	<string id="gunsl_keys_night_vision">
+		<text>Night-vision device</text>
+	</string>
+	<string id="gunsl_keys_slots">
+		<text>Slots</text>
+	</string>
+	<string id="gunsl_keys_slot_knife">
+		<text>Knife</text>
+	</string>
+	<string id="gunsl_keys_slot_pistol">
+		<text>Secondary weapon</text>
+	</string>
+	<string id="gunsl_keys_slot_assault">
+		<text>Primary weapon</text>
+	</string>
+	<string id="gunsl_keys_slot_grenade">
+		<text>Grenade</text>
+	</string>
+	<string id="gunsl_keys_slot_binocle">
+		<text>Binoculars</text>
+	</string>
+	<string id="gunsl_keys_slot_bolt">
+		<text>Bolt</text>
+	</string>
+	<string id="gunsl_keys_slot_next">
+		<text>Next slot</text>
+	</string>
+	<string id="gunsl_keys_slot_prev">
+		<text>Previous slot</text>
+	</string>
+	<string id="gunsl_keys_detector">
+		<text>Detector</text>
+	</string>
+	<string id="gunsl_keys_quickuse">
+		<text>Quick use</text>
+	</string>
+	<string id="gunsl_keys_quick_use_1">
+		<text>1st item</text>
+	</string>
+	<string id="gunsl_keys_quick_use_2">
+		<text>2nd item</text>
+	</string>
+	<string id="gunsl_keys_quick_use_3">
+		<text>3rd item</text>
+	</string>
+	<string id="gunsl_keys_quick_use_4">
+		<text>4th item</text>
+	</string>
+	<string id="gunsl_keys_quick_grenade">
+		<text>Throw grenade</text>
+	</string>	
+	<string id="gunsl_keys_quick_kick">
+		<text>Melee</text>
+	</string>		
+	<string id="gunsl_keys_view">
+		<text>View</text>
+	</string>
+	<string id="gunsl_keys_view_left">
+		<text>Look left</text>
+	</string>
+	<string id="gunsl_keys_view_right">
+		<text>Look right</text>
+	</string>	
+	<string id="gunsl_keys_view_up">
+		<text>Look up</text>
+	</string>
+	<string id="gunsl_keys_view_down">
+		<text>Look down</text>
+	</string>
+	<string id="gunsl_keys_left_lookout">
+		<text>Lean left</text>
+	</string>
+	<string id="gunsl_keys_right_lookout">
+		<text>Lean right</text>
+	</string>
+	<string id="gunsl_keys_other">
+		<text>Miscellaneous</text>
+	</string>
+	<string id="gunsl_keys_pause">
+		<text>Pause</text>
+	</string>
+	<string id="gunsl_keys_use">
+		<text>Action</text>
+	</string>
+	<string id="gunsl_keys_screenshot">
+		<text>Screenshot</text>
+	</string>
+	<string id="gunsl_keys_quit">
+		<text>Exit</text>
+	</string>
+	<string id="gunsl_keys_quicksave">
+		<text>Quick save</text>
+	</string>
+	<string id="gunsl_keys_quickload">
+		<text>Quick load</text>
+	</string>
+	<string id="gunsl_keys_tasks">
+		<text>Current tasks</text>
+	</string>	
+	<string id="gunsl_keys_scope_brightness_plus">
+		<text>Increase scope brightness</text>
+	</string>	
+	
+	<string id="gunsl_keys_scope_brightness_minus">
+		<text>Decrease scope brightness</text>
+	</string>		
+</string_table>
+
