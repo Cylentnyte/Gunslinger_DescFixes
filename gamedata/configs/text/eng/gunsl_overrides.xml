@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<!-- From: st_dialogs_jupiter.xml -->
+	<string id="jup_b220_trapper_about_mutants_11111">
+		<text>Burers usually live in dark, dry rooms. Vile creatures I must say. Scientists believe their abilities allow them to directly manipulate the space-time continuum, which gives them complete control over gravitational forces. Whether it's true or not is still up for debate, and it'll probably need several research papers to prove...but it'll hardly make fighting them any less exhausting. If you aim a barrel at this thing, he'll put up a psi-shield. If you become distracted for even a second, you'll immediately get hit on the head with whatever's nearby, even your own gun! The burers know how to snatch them from your hands before you even have time to understand why it's flying around the room. Don't try to catch it if this happens - you're more likely to get hit with it, so much so you'll be seeing stars in no time. Better to hide and wait, it'll eventually get thrown near enough to pick back up. One more thing...a burer, while not a controller, can still feel your presence even if they can't see you directly. Keep this in mind! Many a hunter have had success aiming at one from cover, then leaning out and taking a shot before it had a chance to put up its shield. Or engaging at one from extreme range, beyond its sphere of influence. Good luck, stalker, you'll need it...</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11141">
+		<text>A fight with a controller is a battle of the mind - literally. Not in the sense of thinking, but as a telepath. When you're hunting one, keep your distance and use cover often. A controller must see you to have full effect, without visual contact it's much more difficult for one to take control of you. Although if you venture too close then even a concrete wall won't save you...but as long as you don't let it get too close, then it's not too difficult to deal with one. Carefully peak from shelter and fire a burst, and as soon as you feel your brain tickle, return to your cover and wait until his hold on your mind is gone. If you find he's not letting go, put all your focus into throwing your weapon away from you, it may keep you from using it unwillingly... And one more thing, the controller has mutated too far to be able to run effectively, so if all else fails, treat him with a grenade.</text>
+	</string>
+<!-- From: st_dialogs_zaton.xml -->
+	<string id="zat_b33_stalker_snag_share_package_dialog_111">
+		<text>So, what do we have here?... My old Fort-17... better than the 12 for sure, easier and more convenient. My uncle gave this to me back in the day, aah the memories...I should keep it.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_113">
+		<text>Well now! I forgot this was in here...my trusty AKS-74UB. The PBS-4 silencer was specially fitted, and the forend and buttstock were replaced with synthetic ones, they weigh less and last longer. I remember trading first aid kits for this, some Freedom squad didn't have any and were getting overrun by Duty...this gun saved my life three times that day...well, that's definitely for me!</text>
+	</string>
+
+	<string id="zat_b51_stalker_nimble_get_order_121">
+		<text>Check it out, this is the SIG Sauer P220R Alpine. I can confidently say there's only one pistol like it in the entire Zone. They released these in a small batch for a special forces unit. It wasn't easy to get a hold of, but I got through to some acquaintances abroad... Enlarged magazine, hardened steel barrel, and a lightweight polymer receiver. It's yours for the remaining 2800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_122">
+		<text>Here's the SIG Sauer P220R Alpine - a modified P220 with increased magazine capacity. It's yours for the remaining 2800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_131">
+		<text>Look here - this thing is called March, it's a customized HK USP Match that belonged to the mercenary Wolfhound. Compact, large-caliber cannon, with a short stroke cycle and lightweight bolt assembly...the owner may have been a bastard, but you can't argue he knew his way around a weapon. They say his favorite joke was to shoot each of a man's limbs, and then his head before he hit the ground. Some comedian, eh?...well. 2800, and it's yours.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_132">
+		<text>Here's March, the modified HK USP Match sidearm. Yours for 2800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_211">
+		<text>See this? HK UMP45 submachine gun. Don't let its looks fool you, it's one of the most powerful guns in the world...in its class, of course. There's a whole suite of customization options for this thing too. All in all, this is a great CQC weapon. Large caliber .45 for stopping power, high rate of fire, excellent accuracy, small and lightweight...yours for 8000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_212">
+		<text>Here's the HK UMP45 submachine gun. Yours for 8000.</text>
+	</string>
+	
+	<string id="zat_b51_stalker_nimble_get_order_321">
+		<text>Here it is, the AK-101, a new generation assault rifle! Accurate, reliable, and comfortable. Belonged to a group of UN observers - they came here to assess the situation in the Zone when it was first developing...then dropped everything and ran at the sight of a chimera! Another 16,000, and she's yours.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_322">
+		<text>Here it is, the AK-101, a new generation assault rifle. Another 16,000 from you.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_331">
+		<text>Gimme a sec!... Here. A special L85. Accurate, versatile...with a scope and grenade launcher, of course. I got it from some UN observers. You can have it for 16,000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_332">
+		<text>Here, a special L85. Yours for 16,000.</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_1">
+		<text>For you? At cost. 2000.</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_16">
+		<text>Oh, those clever bastards...they shoved a damned Flash artifact in the battery! I knew this had to use some sort of anomaly! We weren't getting anywhere with the conventional stuff at the time...though now that I'm looking at at, the principle is quite simple, and it obviously works... I think I can make something similar here. I'll just need to work around a few things so the charge controller recognizes my handicraft. It won't be perfect, but it'll do. Not exactly factory conditions around here, you understand...</text>
+	</string>
+
+<!-- From: st_dialogs_jupiter.xml -->
+	<string id="jup_a12_stalkers_choose_actor_ransom_take_dialog_0">
+		<text>Yes, I'm ready. Let's go.</text>
+	</string>
+<!-- From: st_dialogs_pripyat.xml -->
+	<string id="pri_a22_army_signaller_start_dialog_1121">
+		<text>That's easy! But I don't have a lot of good parts...and disassembling something from the warehouse is obviously not an option, I'd get skinned alive for that! So, if you have something small, like cleaning fouling from the barrel or adjusting the front sight, we can do that. But anything more than that and you'd better bring a donor weapon for parts, or better yet - two.</text>
+	</string>
+
+<!-- From: st_items_outfit.xml -->
+	<string id="dolg_outfit_name">
+		<text>PS5-M "Defender of Duty"</text>
+	</string>
+
+	<string id="st_helm_tactic_descr">
+		<text>A Western model tactical helmet, devoid of any identifiable markings. Designed to provide the unit commander with as much combat information as they could need via the electronic "stuffing". The shell's construction is reinforced with multi-layered Kevlar. Respirator, headlamp, and night-vision device are all included as standard.</text>
+	</string>
+	
+	<string id="scientific_outfit_description">
+		<text>Produced by one of Kiev's many defense research institutes, these outfits are popular among experienced stalkers and artifact hunters. Although the built-in body armor can only stop pistol rounds, the anomaly and radiation protection is held in high regard and considered to be unmatched in the Zone. The upgrade possibilities and three built-in artifact containers can turn it into a viable contender for almost any situation.</text>
+	</string>
+
+<!-- From: ui_st_loadscreen.xml -->
+	<string id="ls_tip_24">
+		<text>The blood drop symbol at the bottom of the screen warns of continuous bleeding. The color of the symbol indicates the intensity.</text>
+	</string>
+	<string id="ls_tip_25">
+		<text>The radiation symbol at the bottom of the screen warns of radiation exposure to the body. The color of the symbol indicates the intensity.</text>
+	</string>	
+	<string id="ls_tip_27">
+		<text>In case the primary sight fails, some weapons have backup sights. To use them, press "$$ACTION_WPN_ZOOM_ALTER$$".</text>
+	</string>
+	<string id="ls_tip_29">
+		<text>The RGO and RGN grenades have an impact fuse, and the F-1 and RGD-5 explode a few seconds after being thrown.</text>
+	</string>
+	<string id="ls_tip_30">
+		<text>Pressing "$$ACTION_QUICK_GRENADE$$" or holding "$$ACTION_WPN_4$$" will trigger a quick grenade throw. This can be useful in fierce fights.</text>
+	</string>
+	<string id="ls_tip_31">
+		<text>If the gun is treated negligently or not maintained, its electronic components can malfunction.</text>
+	</string>
+	<string id="ls_tip_34">
+		<text>The psi-powers of a controller allow it to subdue the will of the victim. Beware of visual contact with one.</text>
+	</string>
+	<string id="ls_tip_37">
+		<text>The AN-94 has a unique two-round burst firing mode. When selected, the second round will be fired before the recoil of the first one is perceived, which leads to both shots landing almost on top of each other.</text>
+	</string>
+	<string id="ls_tip_38">
+		<text>There are three types of flashlights in the Zone: headlamps, tactical flashlights, and handheld flashlights. The first two can be installed by a technician on helmets and weapons respectively, while the latter is required to be held in the hand, which imposes restrictions on which weapons can be used with it.</text>
+	</string>
+	<string id="ls_tip_41">
+		<text>Severe thirst causes your vision to become darker and reduces your overall stamina.</text>
+	</string>
+	<string id="ls_tip_43">
+		<text>Don't underestimate pistols. Many are extremely powerful and effective against weakly armored opponents. In addition, some can be made fully automatic, allowing a detector to be used without any serious loss in firepower.</text>
+	</string>
+	<string id="ls_tip_48">
+		<text>Switching to hand-to-hand combat can save your life in critical situations. Press "$$ACTION_QUICK_KICK$$" to strike.</text>
+	</string>
+	<string id="ls_tip_49">
+		<text>Headlamps have an natural tendency to attract not only insects at night, but also the opportunistic bullets of your enemies. Stay vigilant.</text>
+	</string>
+	<string id="ls_tip_65">
+		<text>Psi-block can prevent the sudden onset of depression and the overwhelming desire to end your life. Always carry a pack of it with you. What if there's a controller around the corner?</text>
+	</string>
+	<string id="ls_tip_68">
+		<text>The brightness of some scope reticles can be adjusted on the fly. Use the "$$ACTION_SCOPE_BRIGHTNESS_PLUS$$" and "$$ACTION_SCOPE_BRIGHTNESS_MINUS$$" buttons while aiming to adapt to current conditions.</text>
+	</string>
+	<string id="ls_tip_72">
+		<text>Keep a close eye on the condition of your equipment. The worse it gets, the more parts you'll need and the more expensive it will be to repair. In cases of serious damage, it might be cheaper to buy a new piece altogether and return the old one to the technician for salvaging parts from.</text>
+	</string>
+	<string id="ls_tip_85">
+		<text>Using a flashlight in the dark can give away your location to the enemy. If you weren't planning for a firefight, use a night vision device.</text>
+	</string>
+	<string id="ls_tip_85">
+		<text>Press "$$ACTION_WPN_FIREMODE_PREV$$" to enable or disable the onboard Gauss rifle computer functions.</text>
+	</string>
+	<string id="ls_tip_86">
+		<text>When using your PDA, you can switch between overview and cursor control modes by pressing "$$ACTION_WPN_ZOOM_ALTER$$".</text>
+	</string>
+	<string id="ls_tip_92">
+		<text>Contact-fuse grenades won't go off in dangerous proximity to the thrower, but can still be detonated if shot directly or subjected to any nearby explosions.</text>
+	</string>
+	<string id="ls_tip_98">
+		<text>Press "$$ACTION_WPN_RELOAD$$" to reload your weapon, or "$$ACTION_WPN_NEXT$$" to switch the type of ammunition being used. Remember - most firearms have a chamber, and if a weapon has its ammunition type changed after being loaded, the first shot will still be of the previous type. When loading an empty weapon, one cartridge will be immediately chambered, and replacing the magazine with a full one at that point will effectively add another round to the weapon.</text>
+	</string>
+
+<!-- From: st_items_weapons_upgrades.xml -->
+	<string id="st_up_arm_a9_descr">
+		<text>Steel plates fixed to the inside.</text>
+	</string>
+	<string id="st_up_kom_a5_descr">
+		<text>An inner lining protects the body in case the outer material tears.</text>
+	</string>
+	<string id="st_up_res_a1_descr">
+		<text>Active filters can neutralize event the most caustic of chemicals. Includes the installation of a convenient valve for food and drink.</text>
+	</string>
+	<string id="st_up_res_b2_descr">
+		<text>Filter with a thicker corrosion-resistant coating and additional protective layers to better combat various hazardous substances. Includes the installation of a convenient valve for food and drink.</text>
+	</string>
+	<string id="st_up_resp_b1_torch_descr">
+		<text>Installation of a better night vision device for operation in complete darkness. A headlamp is also included.</text>
+	</string>
+
+<!-- From: ui_st_inventory.xml -->
+	<string id="ui_ammo_count">
+		<text>Capacity</text>
+	</string>
+</string_table>

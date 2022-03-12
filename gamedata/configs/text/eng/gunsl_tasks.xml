@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="zat_gunsl_snag_controller_task_name_1">
+        <text>Strange order: find the unusual artifact</text>
+    </string>
+
+    <string id="zat_gunsl_snag_controller_task_name_2">
+        <text>Strange order: report search results</text>
+    </string>
+
+    <string id="zat_gunsl_snag_controller_task_decrs_1">
+        <text>One of the stalkers says there's a strange artifact in a cave near the burnt farmstead, which could be worth a small fortune. You should find it and bring it back to the Skadovsk.</text>
+    </string>
+
+    <string id="zat_gunsl_snag_controller_task_decrs_2">
+        <text>No artifact was found in the cave. You should report this to Snag</text>
+    </string>
+
+    <string id="zat_gunsl_b103_outfit_get_name">
+        <text>Masquerade: pick up the mercenary suit</text>
+    </string>
+    <string id="zat_gunsl_b103_outfit_get_descr">
+        <text>The mercenary leader promised to issue a set of equipment. You should go to the warehouse and pick up what's owed.</text>
+    </string>
+    <string id="zat_gunsl_b103_outfit_bring_name">
+        <text>Missing equipment: bring a scientific suit to the mercenaries</text>
+    </string>
+    <string id="zat_gunsl_b103_outfit_bring_descr">
+        <text>The mercenary group needs SSP-99 scientific suits to replace the ones they lost. Their leader promised to exchange an outfit of their own for help in finding one.</text>
+    </string>
+    <string id="zat_gunsl_b103_outfit_bring_second_name">
+        <text>Missing equipment: bring a second scientific suit to the mercenaries</text>
+    </string>
+    <string id="zat_gunsl_b103_outfit_bring_second_descr">
+        <text>The mercenary leader demanded another SSP-99 suit in exchange for their equipment.</text>
+    </string>
+
+    <string id="gunsl_zat_b40_reconnoitre_merc_camp_cleanup_name">
+        <text>Mercenary camp: clear and search the area</text>
+    </string>
+    <string id="gunsl_zat_b40_reconnoitre_merc_camp_cleanup_text">
+        <text>Your actions have attracted too much attention, and all that remains now is to eliminate anyone who tries to obstruct the search of the camp.</text>
+    </string>
+    <string id="gunsl_zat_b40_reconnoitre_merc_camp_decide_name">
+        <text>Mercenary camp: come up with a plan</text>
+    </string>
+    <string id="gunsl_zat_b40_reconnoitre_merc_camp_decide_text">
+        <text>The mercenary camp is heavily guarded, and searching it for information will be problematic. You need to decide how to proceed: find a disguise to try and sneak in, or assault the camp directly and take any information you can find from their corpses.</text>
+    </string>
+    <string id="gunsl_zat_b40_reconnoitre_merc_camp_getin_name">
+        <text>Mercenary camp: sneak into the camp</text>
+    </string>
+    <string id="gunsl_zat_b40_reconnoitre_merc_camp_getin_text">
+        <text>The mercenary outfit will obscure your appearance effectively enough to search the camp unhindered. The main goal will be to avoid drawing your weapon or attracting any unwanted attention to yourself, so the deception remains intact.</text>
+    </string>
+</string_table>
