@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_dof_enabled">
+		<text>Enable DOF</text>
+	</string>
+	<string id="gunsl_opt_dyndof">
+		<text>Dynamic DOF</text>
+	</string>
+	<string id="gunsl_opt_constzoom">
+		<text>New AimDOF</text>
+	</string>
+	<string id="gunsl_opt_laserdot_correction">
+		<text>Laser dot correction</text>
+	</string>
+	<string id="gunsl_opt_npc_lasers">
+		<text>NPC lasers</text>
+	</string>
+	<string id="gunsl_opt_scope_lens_factor">
+		<text>First-person 3D lenses</text>
+	</string>
+	<string id="gunsl_opt_forced_lens">
+		<text>Force 3D lens</text>
+	</string>
+	<string id="gunsl_opt_fov">
+		<text>FOV</text>
+	</string>
+	<string id="gunsl_opt_scope_lens_enabled">
+		<text>Enable 3D lens</text>
+	</string>
+	<string id="gunsl_opt_detail_radius">
+		<text>Grass range</text>
+	</string>
+	<string id="gunsl_weapon_volume">
+		<text>Weapon volume</text>
+	</string>
+	<string id="gunsl_pda_autozoom">
+		<text>Fullscreen PDA</text>
+	</string>
+	<string id="gunsl_pda_savezoomstate">
+		<text>Save PDA zoom state</text>
+	</string>	
+	<string id="gunsl_cod_pickup_mode">
+		<text>Simplified pickup</text>
+	</string>	
+</string_table>

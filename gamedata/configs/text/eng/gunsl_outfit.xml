@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_outfit_novice_ginger_name">
+		<text>Red cape</text>
+	</string>
+	<string id="gunsl_outfit_novice_ginger_descr">
+		<text>Plain cloak made of draped fabric. No noticeable protection for the wearer, aside from keeping them warmer at night and mitigating the occasional dog bite. Red raincoats are commonly worn by bandit veterans and "godfathers" - people who live by their own rules and not much else.</text>
+	</string>
+
+	<string id="gunsl_outfit_novice_jacket_name">
+		<text>Leather jacket</text>
+	</string>
+	<string id="gunsl_outfit_novice_jacket_descr">
+		<text>A simple leather jacket worn by stalkers around the Zone, often once settled in at camp or patrolling nearby. Its lack of basic protections and even poorer anomaly resistance leaves it impractical for just about anything else. Aside from at least being comfortable, warm, and dry, it also comes with a built-in artifact container.</text>
+	</string>
+
+	<string id="gunsl_outfit_bandit_name">
+		<text>Bandit jacket</text>
+	</string>
+	<string id="gunsl_outfit_bandit_descr">
+		<text>Traditional bandit attire with repurposed ballistic vest Kevlar scraps sewn in to protect key areas. Provides minor protection against small arms fire, but remains wholly inadequate for the harsh conditions of the Zone itself. Comes with a built-in artifact container.</text>
+	</string>
+
+	<string id="gunsl_outfit_svoboda_warrior_name">
+		<text>"Warrior of Freedom" suit</text>
+	</string>
+	<string id="gunsl_outfit_svoboda_warrior_descr">
+		<text>Reinforced stalker outfit produced by craftsmen of Freedom. The body armor includes zirconium-alloy plating, which offers decent protection against gunfire and shrapnel from varying distances. The suit itself is made from a dual-layered material that combines specially treated leather with a fabric of interwoven asbestos yarn. The result is a minor degree of protection against anomalous effects and radiation.</text>
+	</string>
+
+	<string id="gunsl_outfit_monolit_name">
+		<text>Monolith suit</text>
+	</string>
+	<string id="gunsl_outfit_monolit_descr">
+		<text>Outfit worn by members of the strange Monolith group, made by manufacturers unknown. The outfit resembles that of a standard Sunrise suit with additional body armor and radiation protection. Despite the relatively few differences to set it apart, its cost is substantially higher. This could be explained by what few examples exist outside of the Monolith faction itself and the great lengths anyone would have to go to for obtaining one. Considering most of their original owners never allow themselves to be captured alive, and in doing so compromise their suits to some degree, its a wonder any of these survive at all.</text>
+	</string>
+
+	<string id="gunsl_outfit_killer_name">
+		<text>Mercenary suit</text>
+	</string>
+	<string id="gunsl_outfit_killer_descr">
+		<text>Battle-tested outfit in use by most mercenaries within the Zone, taking inspiration from those of various Western special forces groups. The snug yet agile fit stabilizes the numerous ballistic plates and prevents them from being jostled out of position. The results are excellent small arms protection and makes the full kit a highly-desired item by anyone expecting to encounter more of the "man-made" dangers of the Zone.</text>
+	</string>
+
+	<string id="gunsl_outfit_csky_light_name">
+		<text>CS-1 body armor</text>
+	</string>
+	<string id="gunsl_outfit_csky_light_descr">
+		<text>Clear Sky faction body armor created for search operations within areas of little anomalous activity. The high-quality material results in improved wear resistance and ultimately extends the operable life of the gear before repairs are needed. Comes with a built-in artifact container.</text>
+	</string>
+
+	<string id="gunsl_outfit_exo_freedom_name">
+		<text>Freedom exoskeleton</text>
+	</string>
+	<string id="gunsl_outfit_exo_freedom_descr">
+		<text>An upgraded redesign of the original exoskeleton, with aluminum and titanium alloys replacing many of the weight-bearing components throughout the rig. The result is much lighter in comparison, which in turn reduces the friction on the various joints and servos, and ultimately allows for longer intervals to occur between maintenance cycles. A detachable mouthpiece lets food and drink pass through without the inconvenience of removing the entire helmet apparatus.</text>
+	</string>
+
+	<string id="gunsl_outfit_hazmat_name">
+		<text>SSP-99 Ecologist</text>
+	</string>
+	<string id="gunsl_outfit_hazmat_descr">
+		<text>Chemical protection suit designed for working in the Zone, used by scientific expeditions and their Ecologist collaborators. The suit has a built-in filtration and conditioning system with a special valve for food and drink. Not intended for combat.</text>
+	</string>
+
+	<string id="gunsl_outfit_hazmat_elite_name">
+		<text>SSP-99M</text>
+	</string>
+	<string id="gunsl_outfit_hazmat_elite_descr">
+		<text>A modified version of the SSP-99, with additional ballistics protection to combat the ever-present threat of small arms and fragmentation shrapnel on an expedition. Highly effective against radiation, biological anomalies, chemical environments, and other harmful flora.</text>
+	</string>
+
+	<string id="gunsl_outfit_scientific_dolg_name">
+		<text>PSZ-9Md Universal Protection</text>
+	</string>
+	<string id="gunsl_outfit_scientific_dolg_descr">
+		<text>An excellent protective suit worn by many of Duty's members. It combines elements of their PSZ-9d body armor with the integrated closed-cycle breathing apparatus and anomalous field suppression systems of a SEVA suit. The resulting protection it provides in both categories makes it highly sought after by those who find themselves in anomalies as often as firefights. Comes equipped with a special valve for food and drink, negating the need to remove the suit or helmet.</text>
+	</string>
+
+	<string id="gunsl_up_headlamp_name">
+		<text>Headlamp</text>
+	</string>
+	<string id="gunsl_up_headlamp_descr">
+		<text>Wearing a headlamp like this one frees up the user's hands, making nighttime work easier. However, it can be seen from some distance and will often give the wearer's position away. It's best to turn these off when any opportunistic individuals might be lurking nearby.</text>
+	</string>
+</string_table>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_msg_sil_restricts_scope">
+		<text>Remove the suppressor!</text>
+	</string>
+
+	<string id="gunsl_msg_gl_restricts_scope">
+		<text>Remove the underbarrel grenade launcher!</text>
+	</string>
+
+	<string id="gunsl_msg_scope_restricts_sil">
+		<text>Remove the scope!</text>
+	</string>
+
+	<string id="gunsl_msg_gl_restricts_sil">
+		<text>Remove the underbarrel grenade launcher!</text>
+	</string>
+
+	<string id="gunsl_msg_scope_restricts_gl">
+		<text>Remove the scope!</text>
+	</string>
+
+	<string id="gunsl_msg_sil_restricts_gl">
+		<text>Remove the suppressor!</text>
+	</string>
+
+	<string id="gunsl_msg_weapon_jammed">
+		<text>Weapon jam! Press "$$ACTION_WPN_RELOAD$$".</text>
+	</string>
+
+	<string id="gunsl_light_misfire">
+		<text>Misfire! Try shooting again.</text>
+	</string>
+
+	<string id="gunsl_msg_weapon_empty">
+		<text>Out of ammo!</text>
+	</string>
+
+	<string id="gunsl_msg_take_wpn_into_hands">
+		<text>Ready weapon!</text>
+	</string>
+
+	<string id="gunsl_msg_stop_actions">
+		<text>Busy! Wait for your current action to complete.</text>
+	</string>
+
+	<string id="gunsl_corpse_overweighted">
+		<text>Overburdened!</text>
+	</string>
+
+	<string id="gunsl_load_incompatible_save_confirm">
+		<text>The selected save was made in an earlier build of the game or mod. Loading can have unpredictable effects, up to or including game crashes. Continue anyways?</text>
+	</string>
+
+</string_table>
