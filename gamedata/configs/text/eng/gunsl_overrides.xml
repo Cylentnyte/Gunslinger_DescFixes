@@ -117,6 +117,9 @@
 	<string id="ls_tip_49">
 		<text>Headlamps have an natural tendency to attract not only insects at night, but also the opportunistic bullets of your enemies. Stay vigilant.</text>
 	</string>
+	<string id="ls_tip_60">
+		<text>Rocket-propelled grenade launchers create a powerful stream of hot gases behind them when fired, which can injure other stalkers as well as the shooter themselves. Check for any obstacles behind you before firing one!</text>
+	</string>
 	<string id="ls_tip_65">
 		<text>Psi-block can prevent the sudden onset of depression and the overwhelming desire to end your life. Always carry a pack of it with you. What if there's a controller around the corner?</text>
 	</string>

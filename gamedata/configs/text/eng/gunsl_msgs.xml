@@ -51,5 +51,9 @@
 	<string id="gunsl_load_incompatible_save_confirm">
 		<text>The selected save was made in an earlier build of the game or mod. Loading can have unpredictable effects, up to or including game crashes. Continue anyways?</text>
 	</string>
+	
+	<string id="gunsl_actor_burned">
+		<text>You're on fire! Press "$$ACTION_USE$$" to try to put yourself out.</text>
+	</string>
 
 </string_table>

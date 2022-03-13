@@ -22,6 +22,15 @@
     </string>
 
 <!-- -->
+    <string id="gunsl_dm_traveler_money_cheat">
+        <text>Man, nobody guides anyone for free here. Save up some money first, then we can talk.</text>
+    </string>
+
+    <string id="gunsl_dm_traveler_money_good">
+        <text>Let's go.</text>
+    </string>
+
+<!-- -->
     <string id="gunsl_dialog_zatoncontra_snag_initial">
         <text>Hey, I've got something. Would you like to take a little walk and earn some money at the same time?</text>
     </string>
@@ -72,7 +81,7 @@
     </string>
 
     <string id="gunsl_dialog_zatoncontra_actor_final_1">
-        <text>I visited your cave... There was no artifact there, not even an anomaly. But you know who I did meet? A controller, you fucker! I almost left my brains on the cave walls because of that bastard! What do you say to that?</text>
+        <text>I visited your cave... There was no artifact there, not even an anomaly. But you know who I did meet? A controller, you motherfucker! I almost left my brains on the cave walls because of that bastard! What do you say to that?</text>
     </string>
     <string id="gunsl_dialog_zatoncontra_snag_final_1">
         <text>What controller, man? What have you got? If you were there, then bring the artifact back and keep our agreement! Or you never went to that cave at all and decided to fool me, huh?!</text>
@@ -89,7 +98,7 @@
     </string>
 
     <string id="gunsl_dialog_zatoncontra_snag_final_2">
-        <text>What money, freak, you didn't do anything! Our agreement was simple - hand over the artifact, then divide the profit. No artifact - no money! And shooting on our ship is forbidden if you didn't know, so calm down before you're calmed down. In the end, if you didn’t go...I don’t want to have any more business with you. You seemed like a decent person...</text>
+        <text>What money, motherfucker, you didn't do anything! Our agreement was simple - hand over the artifact, then split the profits. No artifact - no money! And shooting on our ship is forbidden if you didn't know, so calm down before you're calmed down. In fact, why don't you go fuck yourself! I don’t want anything more to do with you. You seemed like a decent person...</text>
     </string>
 
     <string id="gunsl_dialog_zatoncontra_actor_final_3">
@@ -147,6 +156,65 @@
     </string>
     <string id="zat_b30_owl_stalker_trader_buy_info_15411_cheat">
         <text>You want this? Come back when you've saved up.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_dialog_boroda_about_merc_stealth_act_0">
+        <text>Any idea how to safely disguise yourself as a mercenary?</text>
+    </string>
+    <string id="gunsl_dialog_boroda_about_merc_stealth_npc_0">
+        <text>A mercenary, you say... That's an interesting question, I'll have to think about it. What do you need a disguise for?</text>
+    </string>
+    <string id="gunsl_dialog_boroda_about_merc_stealth_act_1_1">
+        <text>The bandits have gone completely out of their minds now, they won't give an honest stalker a pass. I was thinking that maybe they'd be afraid to deal with a mercenary at least.</text>
+    </string>
+    <string id="gunsl_dialog_boroda_about_merc_stealth_npc_1_1">
+        <text>Alas, you're right about that - bandit numbers in the area have skyrocketed. Robbing honest people is much safer and more profitable than risking your own skin in anomalies, so it's not hard to see why so many new stalkers join the bandits. But look closer at these newcomers - they're only brave on the surface, they'd never jump a pro mercenary unless the vodka's gone to their head. He's not likely to have any artifacts on him, but there's a far greater risk of getting shot back at, especially if he has other squad members nearby. But wearing a mercenary suit... Not worth it, kid. First of all, it won't protect you from anomalies, and second, nobody likes mercenaries. Bandits, of course, are afraid to attack a man wearing one, but Duty or Freedom units shoot at first sight.</text>
+    </string>
+    <string id="gunsl_dialog_boroda_about_merc_stealth_act_1_2">
+        <text>I want to get a good look around their camp without getting into a firefight.</text>
+    </string>
+    <string id="gunsl_dialog_boroda_about_merc_stealth_npc_1_2">
+        <text>So that's what you're up to... The mercenaries are serious fellas, you'd need a death-wish to shoot at them. I'm sure they've got their camp locked down so well a mouse couldn't get near, but...I have an idea. Mercenaries like to cover themselves head-to-toe with gear. If you can get hold of one of their costumes, they might mistake you for one of their own! From a distance anyways, up close they're more likely to see right through it. They've had huge amounts of training and know each other pretty damn well just by their behavior, their insignia, and who knows what else. So a suit wouldn't guarantee that they won't spot you anyways...you'd probably want to raid the place at night - the darkness should play to your advantage.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_dialog_owl_about_merc_stealth_act_0">
+        <text>I scouted around the mercenary camp.</text>
+    </string>
+    <string id="gunsl_dialog_owl_about_merc_stealth_npc_0">
+        <text>And? What'd you find out?</text>
+    </string>
+    <string id="gunsl_dialog_owl_about_merc_stealth_act_1">
+        <text>The main building's heavily guarded, there's no way I'd get in unnoticed. Even if I could, they'd never let me leave there alive.</text>
+    </string>
+    <string id="gunsl_dialog_owl_about_merc_stealth_npc_1">
+       <text>Is stating the obvious all you're capable of? The fact that mercenaries will guard their own camp is clear to anyone with a functioning brain. It's not like I told you it'd be easy to get in. Getting information is a risky business, but it's a risk I pay for. Or are you refusing to do the job?</text>
+    </string>
+    <string id="gunsl_dialog_owl_about_merc_stealth_act_2">
+        <text>That's not the point. I want to try to infiltrate their camp, disguised as a mercenary. Do you have any of their equipment for sale?</text>
+    </string>
+    <string id="gunsl_dialog_owl_about_merc_stealth_npc_2">
+        <text>No, my suppliers don't sell that kind of stuff. Even if they did, I wouldn't buy it. Too expensive. I'd never be able to move it. Anyways, enough with the chitchat, let's get to work.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_dialog_owl_about_notebook_npc_0">
+        <text>So...a couple of non-factory holes in it doesn't bother you? Fix it first, then we'll see.</text>
+    </string>
+    <string id="gunsl_dialog_owl_about_notebook_act_0">
+        <text>Do you know who could fix it?</text>
+    </string>
+    <string id="gunsl_dialog_owl_about_notebook_npc_1">
+        <text>Well, you shouldn't trust any of these knuckleheads on the Skadovsk with such serious equipment - they'll end up destroying it completely. Better check with the scientists in their bunker by Yanov station. There's a smart guy there, Novikov, he knows how to fix all kinds of this advanced stuff.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_dialog_nimble_about_merc_stealth_act_0">
+        <text>I need a mercenary outfit.</text>
+    </string>
+    <string id="gunsl_dialog_nimble_about_merc_stealth_act_1">
+        <text>Do you know what you're asking for? Would you like a Monolith suit, too? I'm not going to ask why you suddenly need one, but I don't want any extra trouble in my life. If you want mercenary gear, make your own arrangements, and I'll take care of the easier and safer ones.</text>
     </string>
 
 <!-- -->
@@ -283,8 +351,17 @@
     <string id="gunsl_dialog_firstoutfitgot_act_0">
         <text>What about the equipment?</text>
     </string>
-    <string id="gunsl_dialog_firstoutfitgot_merc_1">
+    <string id="gunsl_dialog_firstoutfitgot_merc_1_1">
         <text>Not so fast, stalker. Did you forget we had two of these suits? You brought one, now bring a second. If you get it, we'll talk then.</text>
+    </string>
+	<string id="gunsl_dialog_firstoutfitgot_merc_1_2">
+        <text>Thanks for your help, stalker, here you go. You've earned it. Of course, the suit's a little worn, but it should be easy to repair.</text>
+    </string>
+    <string id="gunsl_dialog_firstoutfitgot_merc_1_3">
+        <text>Not so fast, stalker. Did you forget we had two of those suits? You've brought us one already, and I can see you have a second one. You brought that for us, right? Give it to me.</text>
+    </string>
+    <string id="gunsl_dialog_firstoutfitgot_merc_1_4">
+        <text>Not so fast, stalker. Did you forget we had two of those suits? You've brought us one already, and I can see you have a second one, but it's pretty beat up. Get it repaired and bring it back, OK?</text>
     </string>
 
     <string id="gunsl_dialog_firstoutfitgot_act_2_1">
@@ -308,10 +385,10 @@
     </string>
 
     <string id="gunsl_dialog_has2ndmercoutfit_act_0">
-        <text>I brought the second suit. Can you finally get the equipment you promised?</text>
+        <text>I brought the second suit. Can you finally give me the equipment you promised?</text>
     </string>
     <string id="gunsl_dialog_has2ndmercoutfit_merc_1_1">
-        <text>Great job, stalker! You wanted our outfit? Here you are. Brand new. The fly doesn't always work, but it'll do the job in battle as much as any parade.</text>
+        <text>Great job, stalker! You wanted our outfit? Here you are. Brand new. The fly doesn't always work, but it'll hold up in battle as much as any parade.</text>
     </string>
     <string id="gunsl_dialog_has2ndmercoutfit_merc_1_2">
         <text>Did you take this off a corpse? There are holes! You can wear it, my guys rely on suits that can hold pressure.</text>
@@ -370,14 +447,59 @@
         <text>No, bro, you definitely don't want me for this.</text>
     </string>
     <string id="gunsl_quest_merc_sci_outfit_npc_1_2_bandit">
-        <text>I saw some jerk in one the other day, but where he is now...I don't know. Look for yourself.</text>
+        <text>What's there to think about, bro? You should definitely be able to get one from Owl on the Skadovsk.</text>
     </string>
     <string id="gunsl_quest_merc_sci_outfit_npc_1_3_bandit">
-        <text>No idea, in our business we're not worried about the weather.</text>
+        <text>No idea, in our business the elements are the least of our concern.</text>
     </string>
 
-    <string id="gunsl_quest_common_npc_unknown">
+    <string id="gunsl_quest_merc_sci_outfit_common_npc_unknown">
         <text>I would ask someone else, stalker.</text>
+    </string>
+
+<!-- -->
+    <string id="gunsl_quest_about_himik_act_0">
+        <text>Did you happen to see a man in an orange scientific suit?</text>
+    </string>
+    <string id="gunsl_quest_about_himik_common_npc_unknown">
+        <text>No, I haven't seen that.</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_1_stk">
+        <text>Sorry, brother, I don't know anyone here who'd even wear one of those.</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_2_stk">
+        <text>Hmm... You know, I just saw someone like that around the antenna complex the other day. Something about him felt strange, so I preferred to keep my distance...</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_3_stk">
+        <text>Hey yeah, I did! Just as I was leaving the sawmill, I saw a man walking straight into the swamp, wearing an orange suit and all! But scientists don't wander around the Zone without protection, so he obviously wasn't one. I didn't bother him and kept walking.</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_4_stk">
+        <text>I saw one like that near the dredge. He was very active with the detector and must have collected all the artifacts there. But I was afraid to get too close - he was surrounded by anomalies. But with a suit like that, maybe he didn't mind them.</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_5_stk">
+        <text>I saw one in Izumrudnoye. I was walking along the path and couldn't tell whether it was an alien or a scientist. I don't know which is better - if the scientists showed up here, then their guards might be nearby, too. Heard about the dropped choppers, didn't you? That's probably why so many people are coming here now. I jumped into some bushes and stayed quiet as a mouse til he left.</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_6_stk">
+        <text>No, I haven't seen any scientists in Zaton yet, only mutants and bandits.</text>
+    </string>
+
+    <string id="gunsl_quest_about_himik_npc_1_1_bandit">
+        <text>Oh, I've seen that guy, dressed up like a parrot or something. I saw him from the bridge when he was walking through the swamp. But the idiot fucked up his route, the psychobarge is on the other side, heh-heh.</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_2_bandit">
+        <text>Saw a guy in one the other day, but where he is now - I don't know. You'll have to find him yourself.</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_3_bandit">
+        <text>Ha, so you want to see that alien in the spacesuit, too? Listen to this, it's like I was watching something straight out of Star Wars. This guy went to search the chopper in the Iron Forest anomaly and a trunk flew into the back of his head. There's poltergeists going wild and nothing anyone could do about it. So this fruit wakes up, realizes what he'd gotten himself into, and ran outta there so fast he ditched his spacesuit! It was hilarious!</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_4_bandit">
+        <text>Bro, look for clowns like that at the circus, they wouldn't last long out here.</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_5_bandit">
+        <text>Oh yeah, I saw him heading towards the sawmill, he must've been anxious to join the locals. I wasn't about to try and talk him out of it.</text>
+    </string>
+    <string id="gunsl_quest_about_himik_npc_1_6_bandit">
+        <text>Bro, if you're looking for aliens, grab a couple bottles and stop by Cardan's.</text>
     </string>
 
 <!-- -->
@@ -577,6 +699,19 @@
 	
     <string id="gunsl_quest_zat_b51_stalker_nimble_get_sci_outfit_npc_0">
         <text>Have a look. It wasn't easy, but we managed to find one suit. 35,000, and it's yours.</text>
+    </string>
+	
+<!-- -->
+    <string id="gunsl_dialog_pripyat_get_food_actor_initial">
+        <text>I need provisions.</text>
+    </string>
+
+    <string id="gunsl_dialog_pripyat_get_food_npc_1_1">
+        <text>Bon appetit, Comrade Major!</text>
+    </string>
+
+    <string id="gunsl_dialog_pripyat_get_food_npc_1_2">
+        <text>I can't, Comrade Major, you've already got your daily ration.  We're running low on supplies as it is.</text>
     </string>
 
 <!--
