@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gwr_remove_your_helm">
+		<text>Take off your helmet!</text>
+	</string>
+	<string id="gwr_remove_your_outfit">
+		<text>Take off your outfit!</text>
+	</string>
+</string_table>

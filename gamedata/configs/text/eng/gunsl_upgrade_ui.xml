@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_gunsl_disassemble_button_hint">
+		<text>Provide an item for the technician to salvage parts from.</text>
+	</string>
+	<string id="ui_gunsl_disassemble">
+		<text>Disassembly</text>
+	</string>
+	<string id="ui_gunsl_disassemble_impossible">
+		<text>The technician isn't interested in these parts.</text>
+	</string>
+	<string id="ui_gunsl_disassemble_question">
+		<text>Give to the technician for salvaging? This may reduce the cost of repairing another similar item.</text>
+	</string>
+	<string id="ui_gunsl_disassemble_reward">
+		<text>The technician is ready to buy this item from you. Would you like to sell it for parts?</text>
+	</string>
+	<string id="ui_gunsl_mechanic_needs_parts">
+		<text>The technician doesn't have enough parts to fix this.</text>
+	</string>
+	<string id="ui_gunsl_mechanic_wait_parts_for_discount">
+		<text>You can reduce the cost of this repair by providing similar items for salvaging.</text>
+	</string>
+</string_table>

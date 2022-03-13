@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_wpn_l85_as_lr300_name">
+		<text>L85A2 (special design, type 1)</text>
+	</string>	
+	<string id="gunsl_wpn_l85_as_lr300_descr">
+		<text>This L85A2 was customized by Freedom's gunsmiths to ensure higher accuracy and reliability.</text>
+	</string>
+
+	<string id="gunsl_wpn_l85_as_f2000_name">
+		<text>L85A2 (special design, type 2)</text>
+	</string>	
+	<string id="gunsl_wpn_l85_as_f2000_descr">
+		<text>This copy of the L85A2 belongs to a small batch of weapons ordered by several mercenary squads. It's equipped with a grenade launcher and a scope. Unfortunately, due to the permanent methods involved in their installation, it's impossible to remove or transfer the attachments to other weapons without special machinery not currently found in the Zone.</text>
+	</string>
+	
+	<string id="gunsl_wpn_ak74_as_sig550_strelok_name">
+		<text>AK-101 Arrow</text>
+	</string>
+	<string id="gunsl_wpn_ak74_as_sig550_strelok_descr">
+		<text>Although the rifle wasn't exactly made yesterday, it's clearly been meticulously maintained by its former owner. The weapon has been completely overhauled, and all of its parts have been carefully fitted together, the result being far more efficient than its original design. The buttstock is neatly carved with the letter "S" and 16 small crosses.</text>
+	</string>
+	
+	<string id="gunsl_wpn_ak74_as_g36_name">
+		<text>AK-101 (special design)</text>
+	</string>	
+	<string id="gunsl_wpn_ak74_as_g36_descr">
+		<text>A modified version of the AK-101 assault rifle, reconfigured by Freedom craftsmen to handle the harsh environment of the Zone. The accuracy has been improved over the base model, and the amount of recoil felt noticeably reduced.</text>
+	</string>	
+	
+	<string id="gunsl_wpn_val_as_groza_name">
+		<text>AS Val (special design)</text>
+	</string>	
+	<string id="gunsl_wpn_val_as_groza_descr">
+		<text>Assault version of the AS Val, fitted with a tactical underbarrel grip from the factory.</text>
+	</string>	
+
+	<string id="gunsl_wpn_ak74_as_pkm_name">
+		<text>AK-74M (special design)</text>
+	</string>
+	<string id="gunsl_wpn_ak74_as_pkm_descr">
+		<text>It's not really known who came up with the idea of chambering an AK-74M for machine gun cartridges, or why they felt it was necessary, but the resulting hybrid has garnered respect from more than one group of stalkers. The lethality of the ammunition leaves no chance for its targets, and a massive magazine makes it easy to forget about the poor accuracy. Unfortunately, this conversion prevents the installation of an underbarrel grenade launcher on the weapon.</text>
+	</string>	
+
+	<string id="gunsl_wpn_ak74_as_pkm_zulus_name">
+		<text>Zulu's AK-74M</text>
+	</string>
+	<string id="gunsl_wpn_ak74_as_pkm_zulus_descr">
+		<text>This weapon once belonged to Zulu. The 7.62mm barrel and high-capacity magazine makes it a very dangerous tool in the right hands. It can take significant effort to handle the recoil, but this didn't seem to be a problem for the previous owner.</text>
+	</string>	
+	
+</string_table>
