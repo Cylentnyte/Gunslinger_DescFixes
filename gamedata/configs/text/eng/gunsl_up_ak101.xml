@@ -70,7 +70,7 @@
      <text>Barrel alignment</text>
 </string>
 <string id="gunsl_ak101_up_barrel_descr">
-     <text>Reduces bullet deviation from sight alignment, improving accuracy.</text>
+     <text>Improves muzzle velocity for a flatter trajectory.</text>
 </string>
 <string id="gunsl_ak101_up_usm_accuracy_name">
      <text>Calibrate the trigger group</text>

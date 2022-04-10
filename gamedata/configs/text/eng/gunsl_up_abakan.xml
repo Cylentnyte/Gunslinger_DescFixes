@@ -13,10 +13,10 @@
      <text>Increases muzzle velocity for a flatter trajectory and faster time-to-impact. Useful for long range shots.</text>
 </string>
 <string id="gunsl_abakan_up_barrel_accuracy_name">
-     <text>Barrel alignment</text>
+     <text>Narrower barrel guide channels</text>
 </string>
 <string id="gunsl_abakan_up_barrel_accuracy_descr">
-     <text>Reduces bullet deviation from sight alignment, improving accuracy.</text>
+     <text>Reduces the amount of barrel deviation during fire, improving accuracy.</text>
 </string>
 <string id="gunsl_abakan_up_barrel_compensator_name">
      <text>Improved muzzle brake</text>
