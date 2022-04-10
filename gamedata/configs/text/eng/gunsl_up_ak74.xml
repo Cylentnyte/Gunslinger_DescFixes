@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_ak74_up_mag45_brown_name">
+     <text>High-capacity magazine (brown, 45 rounds)</text>
+</string>
+<string id="gunsl_ak74_up_mag45_brown_descr">
+     <text>Higher-capacity magazines means fewer reloads during combat and improves the odds of survival.</text>
+</string>
+<string id="gunsl_ak74_up_mag45_black_name">
+     <text>High-capacity magazine (black, 45 rounds)</text>
+</string>
+<string id="gunsl_ak74_up_mag45_black_descr">
+     <text>Higher-capacity magazines means fewer reloads during combat and improves the odds of survival.</text>
+</string>
+<string id="gunsl_ak74_up_mag60_name">
+     <text>High-capacity magazine (60 rounds)</text>
+</string>
+<string id="gunsl_ak74_up_mag60_descr">
+     <text>A quad-stacked magazine holds even more ammunition than standard issue.</text>
+</string>
+<string id="gunsl_ak74_up_nakladka_priklad_name">
+     <text>Rubberized buttplate</text>
+</string>
+<string id="gunsl_ak74_up_nakladka_priklad_descr">
+     <text>Installation of a rubberized buttplate on the stock reduces felt recoil.</text>
+</string>
+<string id="gunsl_ak74_up_bayonet_name">
+     <text>Bayonet attachment</text>
+</string>
+<string id="gunsl_ak74_up_bayonet_descr">
+     <text>Mounting a standard 6x5 bayonet allows the rifle to be used as an effective melee weapon. Due to its location on the weapon, it cannot be used simultaneously with an underbarrel grenade launcher or suppressor.</text>
+</string>
+<string id="gunsl_ak74_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_ak74_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_ak74_up_foregrip_rail_name">
+     <text>Replace the upper handguard</text>
+</string>
+<string id="gunsl_ak74_up_foregrip_rail_descr">
+     <text>Installation of a modern upper handguard with integrated Weaver rails, allowing for the addition of forend-mounted optics, flashlights, and laser sights.</text>
+</string>
+<string id="gunsl_ak74_up_laser_name">
+     <text>Laser sight</text>
+</string>
+<string id="gunsl_ak74_up_laser_descr">
+     <text>Visually marks the weapon's point of impact in a straight line from the muzzle. Assists with target acquisition at close range where bullet deviation and trajectory drop are less of an issue. Installation does not prevent the addition of optics or a tactical flashlight.</text>
+</string>
+<string id="gunsl_ak74_up_torch_name">
+     <text>Tactical flashlight</text>
+</string>
+<string id="gunsl_ak74_up_torch_descr">
+     <text>A long-range, narrow-field flashlight to assist with nighttime exploration and eliminates the need to hold one separately. Installation does not prevent the addition of optics or a laser sight.</text>
+</string>
+<string id="gunsl_ak74_up_handle_name">
+     <text>Ergonomic grip</text>
+</string>
+<string id="gunsl_ak74_up_handle_descr">
+     <text>Installation of a more comfortable grip.</text>
+</string>
+<string id="gunsl_ak74_up_light_tsevie_name">
+     <text>Forend replacement</text>
+</string>
+<string id="gunsl_ak74_up_light_tsevie_descr">
+     <text>An improved forend makes the gun easier to handle and more comfortable to hold.</text>
+</string>
+<string id="gunsl_ak74_up_barrel_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_ak74_up_barrel_descr">
+     <text>Reduces bullet deviation from sight alignment, improving accuracy.</text>
+</string>
+<string id="gunsl_ak74_up_usm_accuracy_name">
+     <text>Calibrate the trigger group</text>
+</string>
+<string id="gunsl_ak74_up_usm_accuracy_descr">
+     <text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+</string>
+<string id="gunsl_ak74_up_usm_rpm_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_ak74_up_usm_rpm_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_ak74_up_usm_rpm_down_name">
+     <text>Rate-of-fire reducer</text>
+</string>
+<string id="gunsl_ak74_up_usm_rpm_down_descr">
+     <text>Allows the shooter more time to re-acquire their target between shots and compensate for muzzle climb, effectively leading to better accuracy, ammunition economy, and longevity of the weapon .</text>
+</string>
+<string id="gunsl_ak74_up_lightdetails_name">
+     <text>Lightweight alloy components</text>
+</string>
+<string id="gunsl_ak74_up_lightdetails_descr">
+     <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
+</string>
+<string id="gunsl_ak74_up_reliability_name">
+     <text>Heavy-duty components</text>
+</string>
+<string id="gunsl_ak74_up_reliability_descr">
+     <text>Replacing standard parts with analogs made of high-strength alloys increases the weapons durability.</text>
+</string>
+<string id="gunsl_ak74_up_weight_priklad_name">
+     <text>Lightweight buttstock</text>
+</string>
+<string id="gunsl_ak74_up_weight_priklad_descr">
+     <text>Reduces the overall weight of the weapon.</text>
+</string>
+</string_table>
