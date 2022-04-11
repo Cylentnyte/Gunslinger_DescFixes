@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_toz34_up_reliability_name">
+		<text>Protective coating</text>
+	</string>
+	<string id="gunsl_toz34_up_reliability_descr">
+		<text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+	</string>
+	
+	<string id="gunsl_toz34_up_sights_name">
+		<text>Tritium inserts</text>
+	</string>
+	<string id="gunsl_toz34_up_sights_descr">
+		<text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+	</string>
+
+	<string id="gunsl_toz34_up_calibration_name">
+		<text>Calibrate the trigger group</text>
+	</string>
+	<string id="gunsl_toz34_up_calibration_descr">
+		<text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+	</string>
+	
+	<string id="gunsl_toz34_up_barrel_name">
+		<text>Sawn-off barrel</text>
+	</string>
+	<string id="gunsl_toz34_up_barrel_descr">
+		<text>Sawing off the barrel results in a much lighter and easier-to-handle weapon, but range and accuracy are impacted significantly.</text>
+	</string>
+	
+	<string id="gunsl_toz34_up_stock_name">
+		<text>Sawn-off buttstock</text>
+	</string>
+	<string id="gunsl_toz34_up_stock_descr">
+		<text>Removing the majority of the stock makes the weapon considerably lighter and easier to handle, however recoil is much more pronounced.</text>
+	</string>
+	
+	<string id="gunsl_toz34_up_plate_name">
+		<text>Improved buttstock</text>
+	</string>
+	<string id="gunsl_toz34_up_plate_descr">
+		<text>Replacing the buttstock with a softer, padded alternative mitigates recoil slightly better.</text>
+	</string>
+	
+	<string id="gunsl_toz34_up_weaver_name">
+		<text>Installation of a Weaver rail</text>
+	</string>
+	<string id="gunsl_toz34_up_weaver_descr">
+		<text>Allows most Weaver-compatible optics to be mounted.</text>
+	</string>
+	
+	<string id="gunsl_toz34_up_usm_name">
+		<text>Heavy-duty components</text>
+	</string>
+	<string id="gunsl_toz34_up_usm_descr">
+		<text>Replacing standard parts with analogs made of high-strength alloys increases the weapons durability.</text>
+	</string>
+
+	<string id="gunsl_toz34_up_barrel_narezka_name">
+		 <text>Rifled barrel</text>
+	</string>
+	<string id="gunsl_toz34_up_barrel_narezka_descr">
+		 <text>Rifling the barrel significantly improves accuracy and muzzle velocity, but prevents any further use of buckshot ammunition.</text>
+	</string>	
+	
+</string_table>

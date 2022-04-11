@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_bizon_up_mag_shnek_name">
+     <text>Wear-resistant augur</text>
+</string>
+<string id="gunsl_bizon_up_mag_shnek_descr">
+     <text>Reassembling the magazine's auger mechanism with wear-resistant analogs greatly increases its reliability and reduces the number of misfires.</text>
+</string>
+<string id="gunsl_bizon_up_mag_lock_name">
+     <text>Revision of the feeding mechanism</text>
+</string>
+<string id="gunsl_bizon_up_mag_lock_descr">
+     <text>The ammunition feeding assembly has been redesigned to reduce the number of jams from cartridge misfeeding or alignment issues.</text>
+</string>
+<string id="gunsl_bizon_up_pokritie_reliability_name">
+     <text>Heavy-duty components</text>
+</string>
+<string id="gunsl_bizon_up_pokritie_reliability_descr">
+     <text>Replacing standard parts with analogs made of high-strength alloys increases the weapons durability.</text>
+</string>
+<string id="gunsl_bizon_up_rail_name">
+     <text>Forend rail mounts</text>
+</string>
+<string id="gunsl_bizon_up_rail_descr">
+     <text>Installation of rail mounts on the forend allows various tactical equipment to be mounted.</text>
+</string>
+<string id="gunsl_bizon_up_light_tsevie_name">
+     <text>Lightweight forend</text>
+</string>
+<string id="gunsl_bizon_up_light_tsevie_descr">
+     <text>Replacing the forend with a lightweight alternative reduces the overall weight of the weapon.</text>
+</string>
+<string id="gunsl_bizon_up_laser_name">
+     <text>Laser sight</text>
+</string>
+<string id="gunsl_bizon_up_laser_descr">
+     <text>Visually marks the weapon's point of impact in a straight line from the muzzle. Assists with target acquisition at close range where bullet deviation and trajectory drop are less of an issue. Installation does not prevent the addition of optics or a tactical flashlight.</text>
+</string>
+<string id="gunsl_bizon_up_flash_name">
+     <text>Tactical flashlight</text>
+</string>
+<string id="gunsl_bizon_up_flash_descr">
+     <text>A long-range, narrow-field flashlight to assist with nighttime exploration and eliminates the need to hold one separately. Installation does not prevent the addition of a laser sight.</text>
+</string>
+<string id="gunsl_bizon_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_bizon_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_bizon_up_handle_name">
+     <text>Ergonomic grip</text>
+</string>
+<string id="gunsl_bizon_up_handle_descr">
+     <text>Installation of a more comfortable grip.</text>
+</string>
+<string id="gunsl_bizon_up_nakladka_name">
+     <text>Rubberized buttplate</text>
+</string>
+<string id="gunsl_bizon_up_nakladka_descr">
+     <text>Installation of a rubberized buttplate on the stock absorbs much of the recoil felt by the shooter.</text>
+</string>
+<string id="gunsl_bizon_up_barrel_bullet_speed_name">
+     <text>Change the barrel pitch</text>
+</string>
+<string id="gunsl_bizon_up_barrel_bullet_speed_descr">
+     <text>Increases muzzle velocity for a flatter trajectory and faster time-to-impact. Useful for long range shots.</text>
+</string>
+<string id="gunsl_bizon_up_barrel_dispersion_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_bizon_up_barrel_dispersion_descr">
+     <text>Calibrate barrel alignment with the sights and remove any excessive movement that occurs during the firing cycle.</text>
+</string>
+<string id="gunsl_bizon_up_barrel_9x19_name">
+     <text>Change caliber</text>
+</string>
+<string id="gunsl_bizon_up_barrel_9x19_descr">
+     <text>A total rework to accommodate the more powerful 9x19mm cartridge. Factory-original parts designed for the conversion process are used (just don't ask what channels they enter the Zone through, though). The end result is completely consistent with factory specifications and free of the drawbacks associated with homemade modifications. The magazine capacity after conversion is reduced to 53 rounds due to the longer length of the 9x19mm ammunition.</text>
+</string>
+<string id="gunsl_bizon_up_usm_rpm_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_bizon_up_usm_rpm_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_bizon_up_usm_recoil_name">
+     <text>Calibrate the trigger group</text>
+</string>
+<string id="gunsl_bizon_up_usm_recoil_descr">
+     <text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+</string>
+<string id="gunsl_bizon_up_shell_ejector_name">
+     <text>Install a hardened extractor</text>
+</string>
+<string id="gunsl_bizon_up_shell_ejector_descr">
+     <text>Improves overall reliability of the weapon by reducing the number of common ejection issues that can occur after firing.</text>
+</string>
+<string id="gunsl_bizon_up_zatvor_balancer_name">
+     <text>Balance the bolt group</text>
+</string>
+<string id="gunsl_bizon_up_zatvor_balancer_descr">
+     <text>Balancing of the bolt group components reduces the barrel's departure from line of sight when firing.</text>
+</string>
+<string id="gunsl_bizon_up_zatvor_prujina_name">
+     <text>Spring replacement</text>
+</string>
+<string id="gunsl_bizon_up_zatvor_prujina_descr">
+     <text>Returns the bolt group to its firing position faster between cycles, improving the rate of fire.</text>
+</string>
+<string id="gunsl_bizon_up_light_details_name">
+     <text>Lightweight alloy components</text>
+</string>
+<string id="gunsl_bizon_up_light_details_descr">
+     <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
+</string>
+</string_table>

@@ -22,7 +22,7 @@
      <text>Rubberized buttplate</text>
 </string>
 <string id="gunsl_ak74_up_nakladka_priklad_descr">
-     <text>Installation of a rubberized buttplate on the stock reduces felt recoil.</text>
+     <text>Installation of a rubberized buttplate on the stock absorbs much of the recoil felt by the shooter.</text>
 </string>
 <string id="gunsl_ak74_up_bayonet_name">
      <text>Bayonet attachment</text>
@@ -103,9 +103,9 @@
      <text>Replacing standard parts with analogs made of high-strength alloys increases the weapons durability.</text>
 </string>
 <string id="gunsl_ak74_up_weight_priklad_name">
-     <text>Lightweight buttstock</text>
+     <text>Lightweight stock</text>
 </string>
 <string id="gunsl_ak74_up_weight_priklad_descr">
-     <text>Reduces the overall weight of the weapon.</text>
+     <text>Replacing the stock with a lightweight alternative reduces the overall weight of the weapon.</text>
 </string>
 </string_table>

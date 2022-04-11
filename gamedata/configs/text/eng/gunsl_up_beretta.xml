@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_wpn_beretta_up_barrel_accuracy_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_wpn_beretta_up_barrel_accuracy_descr">
+     <text>Calibrate barrel alignment with the sights and remove any excessive movement that occurs during the firing cycle.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_barrel_silencer_name">
+     <text>Threaded barrel</text>
+</string>
+<string id="gunsl_wpn_beretta_up_barrel_silencer_descr">
+     <text>Swap the barrel with an extended variant that has threads pre-cut for mounting a suppressor.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_barrel_bullet_speed_name">
+     <text>Barrel with modified rifling pitch</text>
+</string>
+<string id="gunsl_wpn_beretta_up_barrel_bullet_speed_descr">
+     <text>Changing the rifling pitch can have a positive effect on muzzle velocity.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_pokritie_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_wpn_beretta_up_pokritie_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_zapiratel_name">
+     <text>Improved barrel locking mechanism</text>
+</string>
+<string id="gunsl_wpn_beretta_up_zapiratel_descr">
+     <text>Provides a tighter seal in the chamber and increases bullet obturation with the bore, improving muzzle velocity.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_shell_ejector_name">
+     <text>Install a hardened extractor</text>
+</string>
+<string id="gunsl_wpn_beretta_up_shell_ejector_descr">
+     <text>Improves overall reliability of the weapon by reducing the number of common ejection issues that can occur after firing.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_wpn_beretta_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_light_mag_name">
+     <text>Lightweight magazine</text>
+</string>
+<string id="gunsl_wpn_beretta_up_light_mag_descr">
+     <text>Reduces the overall weight of the weapon.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_anatomic_handle_name">
+     <text>Ergonomic grip</text>
+</string>
+<string id="gunsl_wpn_beretta_up_anatomic_handle_descr">
+     <text>Installation of a more comfortable grip.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_forced_details_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_wpn_beretta_up_forced_details_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_titan_details_name">
+     <text>Heavy-duty components</text>
+</string>
+<string id="gunsl_wpn_beretta_up_titan_details_descr">
+     <text>Replacing standard parts with analogs made of high-strength alloys increases the weapons durability.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_light_details_name">
+     <text>Lightweight alloy components</text>
+</string>
+<string id="gunsl_wpn_beretta_up_light_details_descr">
+     <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_spusk_rpm_name">
+     <text>Shorter trigger pull</text>
+</string>
+<string id="gunsl_wpn_beretta_up_spusk_rpm_descr">
+     <text>Shortening the trigger's travel distance allows for a higher rate of fire.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_spusk_recoil_name">
+     <text>Soft-recoil system</text>
+</string>
+<string id="gunsl_wpn_beretta_up_spusk_recoil_descr">
+     <text>Reduces recoil, which in turn leads to more accurate follow-up shots.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_calibration_name">
+     <text>Component calibration package</text>
+</string>
+<string id="gunsl_wpn_beretta_up_calibration_descr">
+     <text>Custom fitment and balancing of the various components provides higher accuracy with reduced recoil.</text>
+</string>
+<string id="gunsl_wpn_beretta_up_kompensator_name">
+     <text>Recoil compensation system</text>
+</string>
+<string id="gunsl_wpn_beretta_up_kompensator_descr">
+     <text>Reduces the recoil felt from each shot and leads to more comfortable, accurate shot placement.</text>
+</string>
+</string_table>

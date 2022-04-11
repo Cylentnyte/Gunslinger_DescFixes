@@ -52,7 +52,7 @@
      <text>Revision of the feeding mechanism</text>
 </string>
 <string id="gunsl_abakan_up_podacha_descr">
-     <text>The ammunition assembly has been redesigned to reduce the number of jams from cartridge feeding or alignment issues.</text>
+     <text>The ammunition feeding assembly has been redesigned to reduce the number of jams from cartridge misfeeding or alignment issues.</text>
 </string>
 <string id="gunsl_abakan_up_mag45_black_name">
      <text>High-capacity magazine (black, 45 rounds)</text>
@@ -79,10 +79,10 @@
      <text>Installation of an anatomical rubberized buttstock reduces the recoil felt by the shooter.</text>
 </string>
 <string id="gunsl_abakan_up_stock_weight_name">
-     <text>Lightweight buttstock</text>
+     <text>Lightweight stock</text>
 </string>
 <string id="gunsl_abakan_up_stock_weight_descr">
-     <text>Reduces the overall weight of the weapon.</text>
+     <text>Replacing the stock with a lightweight alternative reduces the overall weight of the weapon.</text>
 </string>
 <string id="gunsl_abakan_up_usilenie_korobki_name">
      <text>Reinforce the bolt group</text>
