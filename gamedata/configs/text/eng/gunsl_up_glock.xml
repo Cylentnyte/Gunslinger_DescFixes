@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_glock17_up_reliability_name">
+		<text>Protective coating</text>
+	</string>
+	<string id="gunsl_glock17_up_reliability_descr">
+		<text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+	</string>
+	<string id="gunsl_glock17_up_mag19_name">
+		<text>High-capacity magazine (19 rounds)</text>
+	</string>
+	<string id="gunsl_glock17_up_mag19_descr">
+		<text>Higher-capacity magazines means fewer reloads during combat and improves the odds of survival.</text>
+	</string>	
+	<string id="gunsl_glock17_up_mag33_name">
+		<text>High-capacity magazine (33 rounds)</text>
+	</string>
+	<string id="gunsl_glock17_up_mag33_descr">
+		<text>Extended double-stacked magazines hold significantly more ammunition than standard issue and greatly reduce the number of reloads needed during combat, effectively improving survival odds.</text>
+	</string>	
+	<string id="gunsl_glock17_up_sights_name">
+		<text>Tritium inserts</text>
+	</string>
+	<string id="gunsl_glock17_up_sights_descr">
+		<text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+	</string>
+	<string id="gunsl_glock17_up_barrel_sil_name">
+		<text>Threaded barrel</text>
+	</string>
+	<string id="gunsl_glock17_up_barrel_sil_descr">
+		<text>Swap the barrel with an extended variant that has threads pre-cut for mounting a suppressor.</text>
+	</string>
+	<string id="gunsl_glock17_up_barrel_kompensator_name">
+		<text>Installation of a muzzle brake</text>
+	</string>
+	<string id="gunsl_glock17_up_barrel_kompensator_descr">
+		<text>Replacing the barrel for an extended variant with an integrated muzzle brake helps to mitigate recoil.</text>
+	</string>
+	<string id="gunsl_glock17_up_usm_accuracy_name">
+		<text>Calibrate the trigger group</text>
+	</string>
+	<string id="gunsl_glock17_up_usm_accuracy_descr">
+		<text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+	</string>
+	<string id="gunsl_glock17_up_usm_fullauto_name">
+		<text>Automatic firing mode</text>
+	</string>
+	<string id="gunsl_glock17_up_usm_fullauto_descr">
+		<text>Complete replacement of the breech-block and modification of the firing mechanism allows for an automatic firing mode. The gun's components must be replaced with non-standard parts to handle the significant increase in material stresses, which dramatically reduces overall accuracy and reliability.</text>
+	</string>
+	<string id="gunsl_glock17_up_usm_3x_name">
+		<text>3-round burst cutoff mechanism</text>
+	</string>
+	<string id="gunsl_glock17_up_usm_3x_descr">
+		<text>A compromise between fully automatic and single-shot firing modes. The retrofit modifies certain key assemblies (e.g. replacement of the bolt carrier), but because the additional forces generated are relatively low, most original factory-spec components can be retained. This allows for a much lower loss in accuracy and reliability to produce performance very similar to that of the fully automatic version.</text>
+	</string>
+	<string id="gunsl_glock17_up_laser_name">
+		<text>Laser sight</text>
+	</string>	
+	<string id="gunsl_glock17_up_laser_descr">
+		<text>Visually marks the weapon's point of impact in a straight line from the muzzle. Assists with target acquisition at close range where bullet deviation and trajectory drop are less of an issue. Installation does not prevent the addition of optics or a tactical flashlight.</text>
+	</string>		
+	<string id="gunsl_glock17_up_torch_name">
+		<text>Tactical flashlight</text>
+	</string>	
+	<string id="gunsl_glock17_up_torch_descr">
+		<text>A long-range, narrow-field flashlight to assist with nighttime exploration and eliminates the need to hold one separately. Installation does not prevent the addition of a laser sight.</text>
+	</string>	
+
+</string_table>

@@ -43,7 +43,7 @@
      <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
 </string>
 <string id="gunsl_apb_up_perevodchik_name">
-     <text>Automatic cutoff</text>
+     <text>3-round burst cutoff mechanism</text>
 </string>
 <string id="gunsl_apb_up_perevodchik_descr">
      <text>Installation of an automatic cutoff mechanism limits the firing cycle to three rounds with each pull of the trigger. This lets the shooter maintain better control of the gun and minimize ammunition loss from being off-target.</text>

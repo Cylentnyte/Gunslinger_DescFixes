@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_grach_up_light_ramka_name">
+     <text>Lightweight frame</text>
+</string>
+<string id="gunsl_grach_up_light_ramka_descr">
+     <text>Replacing the standard frame with a lightweight alternative reduces the overall weight of the weapon, without sacrificing reliability or other features.</text>
+</string>
+<string id="gunsl_grach_up_rail_name">
+     <text>Mount a tactical rail</text>
+</string>
+<string id="gunsl_grach_up_rail_descr">
+     <text>Installing an attachment rail allows for the addition of other tactical accessories.</text>
+</string>
+<string id="gunsl_grach_up_flashlaser_name">
+     <text>Combined tactical module</text>
+</string>
+<string id="gunsl_grach_up_flashlaser_descr">
+     <text>Combines the functions of a narrow-field tactical flashlight and laser sight. Particularly useful in low-light conditions.</text>
+</string>
+<string id="gunsl_grach_up_hard_ramka_name">
+     <text>Reinforced frame</text>
+</string>
+<string id="gunsl_grach_up_hard_ramka_descr">
+     <text>Replacing the frame with one made from more durable materials helps with the weapon's longevity.</text>
+</string>
+<string id="gunsl_grach_up_body_reliability_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_grach_up_body_reliability_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_grach_up_barrel_sil_name">
+     <text>Threaded barrel</text>
+</string>
+<string id="gunsl_grach_up_barrel_sil_descr">
+     <text>Swap the barrel with an extended variant that has threads pre-cut for mounting a suppressor.</text>
+</string>
+<string id="gunsl_grach_up_barrel_accuracy_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_grach_up_barrel_accuracy_descr">
+     <text>Calibrate barrel alignment with the sights and remove any excessive movement that occurs during the firing cycle.</text>
+</string>
+<string id="gunsl_grach_up_barrel_speed_name">
+     <text>Barrel with modified rifling pitch</text>
+</string>
+<string id="gunsl_grach_up_barrel_speed_descr">
+     <text>Changing the rifling pitch in the barrel can improve muzzle velocity for a flatter bullet trajectory.</text>
+</string>
+<string id="gunsl_grach_up_usm_rpm_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_grach_up_usm_rpm_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_grach_up_usm_recoil_name">
+     <text>Soft trigger release</text>
+</string>
+<string id="gunsl_grach_up_usm_recoil_descr">
+     <text>Reduces recoil, which in turn leads to more accurate follow-up shots.</text>
+</string>
+<string id="gunsl_grach_up_int_bulletspeed_name">
+     <text>Reduce loss of powder gasses</text>
+</string>
+<string id="gunsl_grach_up_int_bulletspeed_descr">
+     <text>Addressing problem areas around the chamber where ignited gasses can escape forces more to remain within the barrel when fired, increasing muzzle velocity.</text>
+</string>
+<string id="gunsl_grach_up_int_recoil_name">
+     <text>Recoil compensation system</text>
+</string>
+<string id="gunsl_grach_up_int_recoil_descr">
+     <text>Installation of a sophisticated Swiss-made counterbalance system that moves opposite of the action, reducing recoil.</text>
+</string>
+<string id="gunsl_grach_up_zatvor_recoil_name">
+     <text>Balance the bolt group</text>
+</string>
+<string id="gunsl_grach_up_zatvor_recoil_descr">
+     <text>Balancing of the bolt group components reduces the barrel's departure from line of sight when firing, and also reduces perceived recoil by the shooter.</text>
+</string>
+<string id="gunsl_grach_up_zatvor_rpm_name">
+     <text>Stronger return mechanism</text>
+</string>
+<string id="gunsl_grach_up_zatvor_rpm_descr">
+     <text>Allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_grach_up_zatvor_zapiratel_name">
+     <text>Improved barrel locking mechanism</text>
+</string>
+<string id="gunsl_grach_up_zatvor_zapiratel_descr">
+     <text>Provides a tighter seal in the chamber and increases bullet obturation with the bore, improving muzzle velocity.</text>
+</string>
+<string id="gunsl_grach_up_patronnik_accuracy_name">
+     <text>Chamber alignment</text>
+</string>
+<string id="gunsl_grach_up_patronnik_accuracy_descr">
+     <text>Careful fitment of parts and minimization of backlash in the chamber for a better seal, improving accuracy.</text>
+</string>
+<string id="gunsl_grach_up_handle_name">
+     <text>Rubberized grip</text>
+</string>
+<string id="gunsl_grach_up_handle_descr">
+     <text>Installation of a more comfortable grip.</text>
+</string>
+<string id="gunsl_grach_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_grach_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_grach_up_light_mag_name">
+     <text>Lightweight magazine</text>
+</string>
+<string id="gunsl_grach_up_light_mag_descr">
+     <text>Replacing the magazine with a modern lightweight equivalent reduces the overall weight of the gun slightly.</text>
+</string>
+<string id="gunsl_grach_up_light_details_name">
+     <text>Lightweight alloy components</text>
+</string>
+<string id="gunsl_grach_up_light_details_descr">
+     <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
+</string>
+<string id="gunsl_grach_up_titan_details_name">
+     <text>Heavy-duty components</text>
+</string>
+<string id="gunsl_grach_up_titan_details_descr">
+     <text>Replacing standard parts with analogs made of high-strength alloys increases the weapons durability.</text>
+</string>
+<string id="gunsl_grach_up_barrel_recoil_name">
+     <text>Recoil compensator</text>
+</string>
+<string id="gunsl_grach_up_barrel_recoil_descr">
+     <text>Reduces recoil, which in turn leads to more accurate follow-up shots.</text>
+</string>
+</string_table>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_wpn_deagle_up_barrel_compensator_name">
+     <text>Recoil compensator</text>
+</string>
+<string id="gunsl_wpn_deagle_up_barrel_compensator_descr">
+     <text>Reduces recoil, which in turn leads to more accurate follow-up shots.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_barrel_hp_name">
+     <text>High-pressure barrel</text>
+</string>
+<string id="gunsl_wpn_deagle_up_barrel_hp_descr">
+     <text>A uniquely manufactured barrel with special rifling that forms increased pressures behind the bullet. This destabilizes it during flight and forces the bullet to take an arbitrary path on impact, forming a chaotic mess rather than a well-defined wound channel. One notable drawback to the increased damage potential is its inherent negative impact on accuracy.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_mag_uderzhatel_name">
+     <text>Redesigned magazine retainers</text>
+</string>
+<string id="gunsl_wpn_deagle_up_mag_uderzhatel_descr">
+     <text>The high amounts of shock and vibration generated during the firing cycle can sometimes cause the magazine retainers to come loose over time, leading to misfires or cartridge feeding issues. This is designed to solve that problem.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_barrel_accuracy_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_wpn_deagle_up_barrel_accuracy_descr">
+     <text>Calibrate barrel alignment with the sights and remove any excessive movement that occurs during the firing cycle.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_light_mag_name">
+     <text>Lightweight magazine</text>
+</string>
+<string id="gunsl_wpn_deagle_up_light_mag_descr">
+     <text>Replacing the magazine with a modern lightweight equivalent reduces the overall weight of the gun slightly.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_mag_balance_name">
+     <text>Addition of a counterweight</text>
+</string>
+<string id="gunsl_wpn_deagle_up_mag_balance_descr">
+     <text>Installing a counterweight in the frame according to the shooter's preference can reduce the muzzle-flip from each shot and improve perceived recoil.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_usm_accuracy_name">
+     <text>Calibrate the trigger group</text>
+</string>
+<string id="gunsl_wpn_deagle_up_usm_accuracy_descr">
+     <text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_rail_name">
+     <text>Mount a tactical rail</text>
+</string>
+<string id="gunsl_wpn_deagle_up_rail_descr">
+     <text>Installing an attachment rail allows for the addition of other tactical accessories.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_flashlaser_name">
+     <text>Combined tactical module</text>
+</string>
+<string id="gunsl_wpn_deagle_up_flashlaser_descr">
+     <text>Combines the functions of a narrow-field tactical flashlight and laser sight. Particularly useful in low-light conditions.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_wpn_deagle_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_patronnik_name">
+     <text>Chamber alignment</text>
+</string>
+<string id="gunsl_wpn_deagle_up_patronnik_descr">
+     <text>Careful fitment of parts and minimization of backlash in the chamber for a better seal, improving accuracy.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_pokritie_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_wpn_deagle_up_pokritie_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_usm_rpm_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_wpn_deagle_up_usm_rpm_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_usm_recoil_name">
+     <text>Recoil compensation system</text>
+</string>
+<string id="gunsl_wpn_deagle_up_usm_recoil_descr">
+     <text>Reduces the recoil felt from each shot and leads to more comfortable, accurate shot placement.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_zapiratel_name">
+     <text>Improved barrel locking mechanism</text>
+</string>
+<string id="gunsl_wpn_deagle_up_zapiratel_descr">
+     <text>Provides a tighter seal in the chamber and increases bullet obturation with the bore, improving muzzle velocity.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_reliability_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_wpn_deagle_up_reliability_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_gazootvod_name">
+     <text>Modification of the gas extraction system</text>
+</string>
+<string id="gunsl_wpn_deagle_up_gazootvod_descr">
+     <text>Allows for a reduction in recoil felt by the shooter.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_polymer_details_name">
+     <text>Lightweight polymer components</text>
+</string>
+<string id="gunsl_wpn_deagle_up_polymer_details_descr">
+     <text>Replacing standard parts with lightweight polymer alternatives significantly reduces the weight of the gun.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_handle_name">
+     <text>Rubberized grip</text>
+</string>
+<string id="gunsl_wpn_deagle_up_handle_descr">
+     <text>Installation of a more comfortable grip.</text>
+</string>
+<string id="gunsl_wpn_deagle_up_usm_reliability_name">
+     <text>Titanium trigger assembly</text>
+</string>
+<string id="gunsl_wpn_deagle_up_usm_reliability_descr">
+     <text>Replacing the various components of the trigger assembly with titanium equivalents greatly increases the weapon's durability.</text>
+</string>
+
+</string_table>

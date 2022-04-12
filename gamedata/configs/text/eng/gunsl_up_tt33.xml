@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_tt33_up_barrel_accuracy_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_tt33_up_barrel_accuracy_descr">
+     <text>Calibrate barrel alignment with the sights and remove any excessive movement that occurs during the firing cycle.</text>
+</string>
+<string id="gunsl_tt33_up_barrel_speed_name">
+     <text>Barrel re-cutting</text>
+</string>
+<string id="gunsl_tt33_up_barrel_speed_descr">
+     <text>Changing the rifling pitch can have a positive effect on muzzle velocity.</text>
+</string>
+<string id="gunsl_tt33_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_tt33_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_tt33_up_body_reliability_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_tt33_up_body_reliability_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_tt33_up_podacha_name">
+     <text>Revision of the feeding mechanism</text>
+</string>
+<string id="gunsl_tt33_up_podacha_descr">
+     <text>The ammunition feeding assembly has been redesigned to reduce the number of jams from cartridge misfeeding or alignment issues.</text>
+</string>
+<string id="gunsl_tt33_up_ejector_name">
+     <text>Install a hardened extractor</text>
+</string>
+<string id="gunsl_tt33_up_ejector_descr">
+     <text>Improves overall reliability of the weapon by reducing the number of common ejection issues that can occur after firing.</text>
+</string>
+<string id="gunsl_tt33_up_plastic_handle_name">
+     <text>Polymer grip</text>
+</string>
+<string id="gunsl_tt33_up_plastic_handle_descr">
+     <text>Replacing the original wooden grip panels with modern polymer alternatives makes the weapon slightly lighter and easier to handle.</text>
+</string>
+<string id="gunsl_tt33_up_kurok_name">
+     <text>Soft trigger release</text>
+</string>
+<string id="gunsl_tt33_up_kurok_descr">
+     <text>Reduces recoil, which in turn leads to more accurate follow-up shots.</text>
+</string>
+<string id="gunsl_tt33_up_usm_rpm_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_tt33_up_usm_rpm_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_tt33_up_light_mag_name">
+     <text>Lightweight magazine</text>
+</string>
+<string id="gunsl_tt33_up_light_mag_descr">
+     <text>Replacing the magazine with a modern lightweight equivalent reduces the overall weight of the gun slightly.</text>
+</string>
+<string id="gunsl_tt33_up_patronnik_name">
+     <text>Chamber alignment</text>
+</string>
+<string id="gunsl_tt33_up_patronnik_descr">
+     <text>Careful fitment of parts and minimization of backlash in the chamber for a better seal, improving accuracy.</text>
+</string>
+<string id="gunsl_tt33_up_zatvor_name">
+     <text>Balance the bolt group</text>
+</string>
+<string id="gunsl_tt33_up_zatvor_descr">
+     <text>Balancing of the bolt group components reduces the barrel's departure from line of sight when firing.</text>
+</string>
+<string id="gunsl_tt33_up_light_details_name">
+     <text>Lightweight alloy components</text>
+</string>
+<string id="gunsl_tt33_up_light_details_descr">
+     <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
+</string>
+</string_table>

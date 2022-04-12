@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_wpn_pm_up_sights_name">
+		<text>Tritium inserts</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_sights_descr">
+		<text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_usm_accuracy_name">
+		 <text>Calibrate the trigger group</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_usm_accuracy_descr">
+		 <text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_usm_rpm_name">
+		 <text>Reinforced trigger assembly</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_usm_rpm_descr">
+		 <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_barrel_sil_name">
+		 <text>Threaded barrel</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_barrel_sil_descr">
+		 <text>Swap the barrel with an extended variant that has threads pre-cut for mounting a suppressor.</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_barrel_hp_name">
+		 <text>High-strength alloy barrel</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_barrel_hp_descr">
+		 <text>Replacing the barrel with a modern alternative made from high-strength alloys allows for higher cartridge pressures and, subsequently, flatter bullet trajectories.</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_plastic_mag_name">
+		 <text>Polymer magazine</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_plastic_mag_descr">
+		 <text>Replacing the magazine with a modern lightweight equivalent reduces the overall weight of the gun slightly.</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_plastic_details_name">
+		 <text>Lightweight polymer components</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_plastic_details_descr">
+		 <text>Replacing standard parts with lightweight polymer alternatives significantly reduces the weight of the gun.</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_handle_recoil_name">
+		 <text>Rubberized grip</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_handle_recoil_descr">
+		 <text>Installation of a more comfortable grip.</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_reliability_name">
+		 <text>Protective coating</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_reliability_descr">
+		 <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_recoil_name">
+		 <text>Recoil compensation system</text>
+	</string>
+	<string id="gunsl_wpn_pm_up_recoil_descr">
+		 <text>Reduces the recoil felt from each shot and leads to more comfortable, accurate shot placement.</text>
+	</string>
+	
+	<string id="gunsl_wpn_pmm_up_sights_name">
+		 <text>Tritium inserts</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_sights_descr">
+		 <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_usm_accuracy_name">
+		 <text>Calibrate the trigger group</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_usm_accuracy_descr">
+		 <text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_usm_rpm_name">
+		 <text>Reinforced trigger assembly</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_usm_rpm_descr">
+		 <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_barrel_sil_name">
+		 <text>Threaded barrel</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_barrel_sil_descr">
+		 <text>Swap the barrel with an extended variant that has threads pre-cut for mounting a suppressor.</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_barrel_hp_name">
+		 <text>High-strength alloy barrel</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_barrel_hp_descr">
+		 <text>Replacing the barrel with a modern alternative made from high-strength alloys allows for higher cartridge pressures and, subsequently, flatter bullet trajectories.</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_alter_mag_name">
+		 <text>Replace the magazine</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_alter_mag_descr">
+		 <text>Original PMM magazines are prone to a design flaw that can cause them to wear out quicker than expected. Replacing it with one that addresses the original issue ultimately makes the weapon more reliable.</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_plastic_details_name">
+		 <text>Lightweight polymer components</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_plastic_details_descr">
+		 <text>Replacing standard parts with lightweight polymer alternatives significantly reduces the weight of the gun.</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_handle_recoil_name">
+		 <text>Rubberized grip</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_handle_recoil_descr">
+		 <text>Installation of a more comfortable grip.</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_reliability_name">
+		 <text>Protective coating</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_reliability_descr">
+		 <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_recoil_name">
+		 <text>Recoil compensation system</text>
+	</string>
+	<string id="gunsl_wpn_pmm_up_recoil_descr">
+		 <text>Reduces the recoil felt from each shot and leads to more comfortable, accurate shot placement.</text>
+	</string>
+	
+</string_table>
