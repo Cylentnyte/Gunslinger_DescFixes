@@ -85,10 +85,10 @@
      <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
 </string>
 <string id="gunsl_ak74_up_usm_rpm_down_name">
-     <text>Rate-of-fire reducer</text>
+     <text>Firing rate inhibitor</text>
 </string>
 <string id="gunsl_ak74_up_usm_rpm_down_descr">
-     <text>Allows the shooter more time to re-acquire their target between shots and compensate for muzzle climb, effectively leading to better accuracy, ammunition economy, and longevity of the weapon .</text>
+     <text>Allows the shooter more time to re-acquire their target between shots and compensate for muzzle climb, effectively leading to better accuracy, ammunition economy, and longevity of the weapon.</text>
 </string>
 <string id="gunsl_ak74_up_lightdetails_name">
      <text>Lightweight alloy components</text>
@@ -100,7 +100,7 @@
      <text>Heavy-duty components</text>
 </string>
 <string id="gunsl_ak74_up_reliability_descr">
-     <text>Replacing standard parts with analogs made of high-strength alloys increases the weapons durability.</text>
+     <text>Replacing standard parts with analogs made of high-strength alloys increases the weapon's durability.</text>
 </string>
 <string id="gunsl_ak74_up_weight_priklad_name">
      <text>Lightweight stock</text>

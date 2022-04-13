@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gunsl_p90_up_reliability_name">
+		<text>Protective coating</text>
+	</string>
+	<string id="gunsl_p90_up_reliability_descr">
+		<text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+	</string>	
+	
+	<string id="gunsl_p90_up_usm_name">
+		<text>Calibrate the trigger group</text>
+	</string>
+	<string id="gunsl_p90_up_usm_descr">
+		<text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+	</string>	
+	
+	<string id="gunsl_p90_up_torch_name">
+		<text>Tactical flashlight</text>
+	</string>
+	<string id="gunsl_p90_up_torch_descr">
+		<text>A long-range, narrow-field flashlight to assist with nighttime exploration and eliminates the need to hold one separately.</text>
+	</string>	
+</string_table>

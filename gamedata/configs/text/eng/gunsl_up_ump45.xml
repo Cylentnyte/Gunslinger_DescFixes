@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_ump45_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_ump45_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_ump45_up_sil_name">
+     <text>Threaded barrel</text>
+</string>
+<string id="gunsl_ump45_up_sil_descr">
+     <text>Swap the barrel with an extended variant that has threads pre-cut for mounting a suppressor.</text>
+</string>
+<string id="gunsl_ump45_up_rail_name">
+     <text>Mount an optics rail</text>
+</string>
+<string id="gunsl_ump45_up_rail_descr">
+     <text>Allows for the installation of various optics on the weapon.</text>
+</string>
+<string id="gunsl_ump45_up_handle_name">
+     <text>Tactical handle</text>
+</string>
+<string id="gunsl_ump45_up_handle_descr">
+     <text>Installation of a tactical handle under the barrel makes the gun easier to handle and allows the shooter to compensate for recoil more effectively. Installation also includes a replacement forend with Weaver rails, allowing for additional tactical accessories to be mounted.</text>
+</string>
+<string id="gunsl_ump45_up_laser_name">
+     <text>Laser sight</text>
+</string>
+<string id="gunsl_ump45_up_laser_descr">
+     <text>Visually marks the weapon's point of impact in a straight line from the muzzle. Assists with target acquisition at close range where bullet deviation and trajectory drop are less of an issue. Installation does not prevent the addition of optics or a tactical flashlight.</text>
+</string>
+<string id="gunsl_ump45_up_torch_name">
+     <text>Tactical flashlight</text>
+</string>
+<string id="gunsl_ump45_up_torch_descr">
+     <text>A long-range, narrow-field flashlight to assist with nighttime exploration and eliminates the need to hold one separately. Installation does not prevent the addition of a laser sight.</text>
+</string>
+<string id="gunsl_ump45_up_stock_name">
+     <text>Improved buttstock</text>
+</string>
+<string id="gunsl_ump45_up_stock_descr">
+     <text>Installation of an anatomical rubberized buttstock reduces the recoil felt by the shooter.</text>
+</string>
+<string id="gunsl_ump45_up_max_fixator_name">
+     <text>Revision of the feeding mechanism</text>
+</string>
+<string id="gunsl_ump45_up_max_fixator_descr">
+     <text>The ammunition feeding assembly has been redesigned to reduce the number of jams from cartridge misfeeding or alignment issues.</text>
+</string>
+<string id="gunsl_ump45_up_usm_rpm_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_ump45_up_usm_rpm_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_ump45_up_usm_accuracy_name">
+     <text>Calibrate the trigger group</text>
+</string>
+<string id="gunsl_ump45_up_usm_accuracy_descr">
+     <text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+</string>
+<string id="gunsl_ump45_up_barrel_speed_name">
+     <text>Barrel re-cutting</text>
+</string>
+<string id="gunsl_ump45_up_barrel_speed_descr">
+     <text>Changing the rifling pitch in the barrel can improve muzzle velocity for a flatter bullet trajectory.</text>
+</string>
+<string id="gunsl_ump45_up_barrel_compensator_name">
+     <text>Recoil compensator</text>
+</string>
+<string id="gunsl_ump45_up_barrel_compensator_descr">
+     <text>Redirecting the powder gasses to counteract the effects of muzzle climb makes recoil easier to handle for the shooter.</text>
+</string>
+<string id="gunsl_ump45_up_zatvor_balancer_name">
+     <text>Balance the bolt group</text>
+</string>
+<string id="gunsl_ump45_up_zatvor_balancer_descr">
+     <text>Balancing of the bolt group components reduces the barrel's departure from line of sight when firing, and also reduces perceived recoil by the shooter.</text>
+</string>
+<string id="gunsl_ump45_up_body_coating_name">
+     <text>Preventative maintenance package</text>
+</string>
+<string id="gunsl_ump45_up_body_coating_descr">
+     <text>Replacing standard parts with analogs made of high-strength alloys and applying a special coating to the moving components can significantly increase the weapon's durability.</text>
+</string>
+<string id="gunsl_ump45_up_extractor_name">
+     <text>Install a hardened extractor</text>
+</string>
+<string id="gunsl_ump45_up_extractor_descr">
+     <text>Improves overall reliability of the weapon by reducing the number of common ejection issues that can occur after firing.</text>
+</string>
+<string id="gunsl_ump45_up_body_weight_name">
+     <text>Lightweight alloy components</text>
+</string>
+<string id="gunsl_ump45_up_body_weight_descr">
+     <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
+</string>
+</string_table>

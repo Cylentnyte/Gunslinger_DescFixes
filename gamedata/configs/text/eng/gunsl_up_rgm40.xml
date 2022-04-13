@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_rgm40_up_body_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_rgm40_up_body_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_rgm40_up_handle_name">
+     <text>Ergonomic grip</text>
+</string>
+<string id="gunsl_rgm40_up_handle_descr">
+     <text>Installation of a more comfortable grip.</text>
+</string>
+<string id="gunsl_rgm40_up_polymer_details_name">
+     <text>Lightweight polymer frame</text>
+</string>
+<string id="gunsl_rgm40_up_polymer_details_descr">
+     <text>Replacing the standard frame with a lightweight polymer alternative reduces the overall weight of the weapon, without sacrificing reliability or other features.</text>
+</string>
+<string id="gunsl_rgm40_up_recoil_stock_name">
+     <text>Recoil compensator</text>
+</string>
+<string id="gunsl_rgm40_up_recoil_stock_descr">
+     <text>The placement of a special compensator in the gun's stock reduces the recoil felt by the shooter.</text>
+</string>
+<string id="gunsl_rgm40_up_trigger_name">
+     <text>Titanium striker</text>
+</string>
+<string id="gunsl_rgm40_up_trigger_descr">
+     <text>Replacing the standard striker with a titanium equivalent greatly increases the weapon's durability.</text>
+</string>
+<string id="gunsl_rgm40_up_narezka_gren_speed_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_rgm40_up_narezka_gren_speed_descr">
+     <text>Improves muzzle velocity for a flatter trajectory.</text>
+</string>
+<string id="gunsl_rgm40_up_titan_details_name">
+     <text>Wear-resistant trigger components</text>
+</string>
+<string id="gunsl_rgm40_up_titan_details_descr">
+     <text>Replacing the various parts of the trigger assembly with equivalents made from more durable materials improves the overall longevity of the weapon.</text>
+</string>
+<string id="gunsl_rgm40_up_light_stock_name">
+     <text>Lightweight stock</text>
+</string>
+<string id="gunsl_rgm40_up_light_stock_descr">
+     <text>Replacing the stock with a lightweight alternative reduces the overall weight of the weapon.</text>
+</string>
+<string id="gunsl_rgm40_up_light_details_name">
+     <text>Lightweight alloy components</text>
+</string>
+<string id="gunsl_rgm40_up_light_details_descr">
+     <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
+</string>
+</string_table>

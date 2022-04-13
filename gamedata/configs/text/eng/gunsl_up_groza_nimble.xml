@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_groza_nimble_up_gascam_name">
+     <text>Modify the gas system</text>
+</string>
+<string id="gunsl_groza_nimble_up_gascam_descr">
+     <text>Making certain modifications to the gas system can have beneficial characteristics, in this case an notable improvement in muzzle velocity and recoil reduction.</text>
+</string>
+<string id="gunsl_groza_nimble_up_barrel_accuracy_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_groza_nimble_up_barrel_accuracy_descr">
+     <text>Calibrate barrel alignment with the sights and remove any excessive movement that occurs during the firing cycle.</text>
+</string>
+<string id="gunsl_groza_nimble_up_barrel_speed_name">
+     <text>Change the barrel pitch</text>
+</string>
+<string id="gunsl_groza_nimble_up_barrel_speed_descr">
+     <text>Increases muzzle velocity for a flatter trajectory and faster time-to-impact. Useful for long range shots.</text>
+</string>
+<string id="gunsl_groza_nimble_up_body_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_groza_nimble_up_body_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_groza_nimble_up_flash_name">
+     <text>Tactical flashlight</text>
+</string>
+<string id="gunsl_groza_nimble_up_flash_descr">
+     <text>A long-range, narrow-field flashlight to assist with nighttime exploration and eliminates the need to hold one separately. Installation does not prevent the addition of a laser sight.</text>
+</string>
+<string id="gunsl_groza_nimble_up_tactical_rail_name">
+     <text>Mount a tactical rail</text>
+</string>
+<string id="gunsl_groza_nimble_up_tactical_rail_descr">
+     <text>Installation of a modern upper handguard with integrated Picatinny rails, allowing for the addition of forend-mounted optics, flashlights, and laser sights.</text>
+</string>
+<string id="gunsl_groza_nimble_up_handle_name">
+     <text>Ergonomic grip</text>
+</string>
+<string id="gunsl_groza_nimble_up_handle_descr">
+     <text>Installation of a more comfortable grip.</text>
+</string>
+<string id="gunsl_groza_nimble_up_usilenie_korobki_name">
+     <text>Heavy-duty components</text>
+</string>
+<string id="gunsl_groza_nimble_up_usilenie_korobki_descr">
+     <text>Replacing standard parts with analogs made of high-strength alloys increases the weapon's durability.</text>
+</string>
+<string id="gunsl_groza_nimble_up_laser_name">
+     <text>Laser sight</text>
+</string>
+<string id="gunsl_groza_nimble_up_laser_descr">
+     <text>Visually marks the weapon's point of impact in a straight line from the muzzle. Assists with target acquisition at close range where bullet deviation and trajectory drop are less of an issue. Installation does not prevent the addition of optics or a tactical flashlight.</text>
+</string>
+<string id="gunsl_groza_nimble_up_mag_fixator_name">
+     <text>Revision of the feeding mechanism</text>
+</string>
+<string id="gunsl_groza_nimble_up_mag_fixator_descr">
+     <text>The ammunition feeding assembly has been redesigned to reduce the number of jams from cartridge misfeeding or alignment issues.</text>
+</string>
+<string id="gunsl_groza_nimble_up_usm_rpm_down_name">
+     <text>Firing rate inhibitor</text>
+</string>
+<string id="gunsl_groza_nimble_up_usm_rpm_down_descr">
+     <text>Allows the shooter more time to re-acquire their target between shots and compensate for muzzle climb, effectively leading to better accuracy, ammunition economy, and longevity of the weapon.</text>
+</string>
+<string id="gunsl_groza_nimble_up_light_details_name">
+     <text>Lightweight alloy components</text>
+</string>
+<string id="gunsl_groza_nimble_up_light_details_descr">
+     <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
+</string>
+<string id="gunsl_groza_nimble_up_stock_inertion_name">
+     <text>Improved buttstock</text>
+</string>
+<string id="gunsl_groza_nimble_up_stock_inertion_descr">
+     <text>Installation of a rubberized buttplate on the stock absorbs much of the recoil felt by the shooter.</text>
+</string>
+<string id="gunsl_groza_nimble_up_light_stock_name">
+     <text>Lightweight stock</text>
+</string>
+<string id="gunsl_groza_nimble_up_light_stock_descr">
+     <text>Reduces the overall weight of the weapon.</text>
+</string>
+<string id="gunsl_groza_nimble_up_shell_ejector_name">
+     <text>Install a hardened extractor</text>
+</string>
+<string id="gunsl_groza_nimble_up_shell_ejector_descr">
+     <text>Improves overall reliability of the weapon by reducing the number of common ejection issues that can occur after firing.</text>
+</string>
+<string id="gunsl_groza_nimble_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_groza_nimble_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_groza_nimble_up_tac_handle_name">
+     <text>Tactical handle</text>
+</string>
+<string id="gunsl_groza_nimble_up_tac_handle_descr">
+     <text>Installation of a tactical handle under the barrel makes the gun easier to handle and allows the shooter to compensate for recoil more effectively.</text>
+</string>
+<string id="gunsl_groza_nimble_up_usm_rpm_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_groza_nimble_up_usm_rpm_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_groza_nimble_up_usm_accuracy_name">
+     <text>Calibrate the trigger group</text>
+</string>
+<string id="gunsl_groza_nimble_up_usm_accuracy_descr">
+     <text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+</string>
+<string id="gunsl_groza_nimble_up_barrel_recoil_name">
+     <text>Recoil compensator</text>
+</string>
+<string id="gunsl_groza_nimble_up_barrel_recoil_descr">
+     <text>Reduces recoil, which in turn leads to more accurate follow-up shots.</text>
+</string>
+<string id="gunsl_groza_nimble_up_zatvor_balancer_name">
+     <text>Balance the bolt group</text>
+</string>
+<string id="gunsl_groza_nimble_up_zatvor_balancer_descr">
+     <text>Balancing of the bolt group components reduces the barrel's departure from line of sight when firing, and also reduces the probability of hang-fires.</text>
+</string>
+<string id="gunsl_groza_nimble_up_patronnik_accuracy_name">
+     <text>Chamber alignment</text>
+</string>
+<string id="gunsl_groza_nimble_up_patronnik_accuracy_descr">
+     <text>Careful fitment of parts and minimization of backlash in the chamber for a better seal, improving accuracy.</text>
+</string>
+<string id="gunsl_groza_nimble_up_mag45_black_name">
+     <text>High-capacity magazine (black, 45 rounds)</text>
+</string>
+<string id="gunsl_groza_nimble_up_mag45_black_descr">
+     <text>Higher-capacity magazines means fewer reloads during combat and improves the odds of survival.</text>
+</string>
+<string id="gunsl_groza_nimble_up_mag45_brown_name">
+     <text>High-capacity magazine (brown, 45 rounds)</text>
+</string>
+<string id="gunsl_groza_nimble_up_mag45_brown_descr">
+     <text>Higher-capacity magazines means fewer reloads during combat and improves the odds of survival.</text>
+</string>
+<string id="gunsl_groza_nimble_up_mag60_name">
+     <text>High-capacity magazine (60 rounds)</text>
+</string>
+<string id="gunsl_groza_nimble_up_mag60_descr">
+     <text>A quad-stacked magazine holds even more ammunition than standard issue.</text>
+</string>
+</string_table>

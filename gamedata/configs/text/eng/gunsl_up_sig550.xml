@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_sig550_up_handle_name">
+     <text>Ergonomic grip</text>
+</string>
+<string id="gunsl_sig550_up_handle_descr">
+     <text>Installation of a more comfortable grip.</text>
+</string>
+<string id="gunsl_sig550_up_bayonet_name">
+     <text>Bayonet attachment</text>
+</string>
+<string id="gunsl_sig550_up_bayonet_descr">
+     <text>Mounting the original Swiss-made Stgw 90 bayonet allows the rifle to be used as an effective melee weapon. Due to its location on the weapon, it cannot be used simultaneously with an underbarrel grenade launcher or suppressor.</text>
+</string>
+<string id="gunsl_sig550_up_zatvor_accuracy_name">
+     <text>Align the bolt mechanism</text>
+</string>
+<string id="gunsl_sig550_up_zatvor_accuracy_descr">
+     <text>Precise adjustment of the bolt components allows for higher accuracy.</text>
+</string>
+<string id="gunsl_sig550_up_light_stock_name">
+     <text>Lightweight stock</text>
+</string>
+<string id="gunsl_sig550_up_light_stock_descr">
+     <text>Replacing the stock with a lightweight alternative reduces the overall weight of the weapon.</text>
+</string>
+<string id="gunsl_sig550_up_mag_name">
+     <text>Replace the magazine spring</text>
+</string>
+<string id="gunsl_sig550_up_mag_descr">
+     <text>Replacing the standard magazine spring with one that exerts a similar amount of force, but compresses to a lower height, allows the magazine to hold a slightly larger number of cartridges.</text>
+</string>
+<string id="gunsl_sig550_up_barrel_recoil_name">
+     <text>Recoil compensator</text>
+</string>
+<string id="gunsl_sig550_up_barrel_recoil_descr">
+     <text>Reduces recoil, which in turn leads to more accurate follow-up shots.</text>
+</string>
+<string id="gunsl_sig550_up_barrel_accuracy_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_sig550_up_barrel_accuracy_descr">
+     <text>Calibrate barrel alignment with the sights and remove any excessive movement that occurs during the firing cycle.</text>
+</string>
+<string id="gunsl_sig550_up_barrel_speed_name">
+     <text>Change the barrel pitch</text>
+</string>
+<string id="gunsl_sig550_up_barrel_speed_descr">
+     <text>Increases muzzle velocity for a flatter trajectory and faster time-to-impact. Useful for long range shots.</text>
+</string>
+<string id="gunsl_sig550_up_body_reliability_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_sig550_up_body_reliability_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_sig550_up_usm_recoil_name">
+     <text>Calibrate the trigger group</text>
+</string>
+<string id="gunsl_sig550_up_usm_recoil_descr">
+     <text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+</string>
+<string id="gunsl_sig550_up_flashlaser_name">
+     <text>Combined tactical module</text>
+</string>
+<string id="gunsl_sig550_up_flashlaser_descr">
+     <text>The Insight AN/PEQ-16a tactical unit combines the functions of a narrow-field flashlight and laser sight. Particularly useful in low-light conditions.</text>
+</string>
+<string id="gunsl_sig550_up_mag_lock_name">
+     <text>Revision of the feeding mechanism</text>
+</string>
+<string id="gunsl_sig550_up_mag_lock_descr">
+     <text>The ammunition feeding assembly has been redesigned to reduce the number of jams from cartridge misfeeding or alignment issues.</text>
+</string>
+<string id="gunsl_sig550_up_korobka_name">
+     <text>Lightweight alloy components</text>
+</string>
+<string id="gunsl_sig550_up_korobka_descr">
+     <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
+</string>
+<string id="gunsl_sig550_up_shell_ejector_name">
+     <text>Install a hardened extractor</text>
+</string>
+<string id="gunsl_sig550_up_shell_ejector_descr">
+     <text>Improves overall reliability of the weapon by reducing the number of common ejection issues that can occur after firing.</text>
+</string>
+<string id="gunsl_sig550_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_sig550_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_sig550_up_stock_nakladka_name">
+     <text>Improved buttstock</text>
+</string>
+<string id="gunsl_sig550_up_stock_nakladka_descr">
+     <text>Installation of an anatomical rubberized buttstock reduces the recoil felt by the shooter.</text>
+</string>
+<string id="gunsl_sig550_up_tac_foregrip_name">
+     <text>Tactical handle</text>
+</string>
+<string id="gunsl_sig550_up_tac_foregrip_descr">
+     <text>Installation of a tactical handle under the barrel makes the gun easier to handle and allows the shooter to compensate for recoil more effectively. Installation also includes a replacement forend with Picatinny rails, allowing for additional tactical accessories to be mounted.</text>
+</string>
+<string id="gunsl_sig550_up_usm_rpm_up_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_sig550_up_usm_rpm_up_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_sig550_up_zatvor_balancer_name">
+     <text>Balance the bolt group</text>
+</string>
+<string id="gunsl_sig550_up_zatvor_balancer_descr">
+     <text>Balancing of the bolt group components reduces the barrel's departure from line of sight when firing, and also reduces the probability of hang-fires.</text>
+</string>
+</string_table>
