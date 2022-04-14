@@ -7,7 +7,7 @@
      <text>Distributing the recoil more evenly over the entire firing cycle makes sustained fire easier to handle.</text>
 </string>
 <string id="gunsl_abakan_up_barrel_bullet_speed_name">
-     <text>Change the barrel pitch</text>
+     <text>Change the barrel's twist rate</text>
 </string>
 <string id="gunsl_abakan_up_barrel_bullet_speed_descr">
      <text>Increases muzzle velocity for a flatter trajectory and faster time-to-impact. Useful for long range shots.</text>

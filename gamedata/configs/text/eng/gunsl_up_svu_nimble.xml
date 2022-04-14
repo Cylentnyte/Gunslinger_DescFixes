@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_wpn_svu_nimble_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_mag_name">
+     <text>Lightweight magazine</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_mag_descr">
+     <text>Replacing the magazine with a modern lightweight equivalent reduces the overall weight of the gun slightly.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_priklad_weight_name">
+     <text>Lightweight stock</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_priklad_weight_descr">
+     <text>Replacing the stock with a lightweight alternative reduces the overall weight of the weapon.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_handle_anatomic_name">
+     <text>Rubberized grip</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_handle_anatomic_descr">
+     <text>Installation of a more comfortable grip.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_barrel_recoil_name">
+     <text>Improved muzzle brake</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_barrel_recoil_descr">
+     <text>Installation of a more efficient muzzle brake significantly reduces overall recoil.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_barrel_bullet_speed_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_barrel_bullet_speed_descr">
+     <text>Improves muzzle velocity for a flatter trajectory.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_pokritie_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_pokritie_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_gascam_name">
+     <text>Modify the gas system</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_gascam_descr">
+     <text>Making certain modifications to the gas system can have beneficial characteristics, in this case an notable improvement in muzzle velocity and recoil reduction.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_usm_rpm_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_usm_rpm_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_barrel_accuracy_name">
+     <text>Change the barrel's twist rate</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_barrel_accuracy_descr">
+     <text>Exchange the barrel for one with a twist rate that stabilizes the bullet better over longer ranges, improving accuracy.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_mag20_name">
+     <text>High-capacity magazine (20 rounds)</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_mag20_descr">
+     <text>Higher-capacity magazines means fewer reloads during combat and improves the odds of survival.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_light_tsevie_name">
+     <text>Lightweight forend</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_light_tsevie_descr">
+     <text>Replacing the forend with a lightweight alternative reduces the overall weight of the weapon.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_zatvor_reliability_name">
+     <text>High-strength bolt carrier</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_zatvor_reliability_descr">
+     <text>Replacing the standard bolt carrier and firing pin with ones made from high-strength alloys significantly increases the number of firing cycles they can withstand before servicing.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_zatvor_accuracy_name">
+     <text>Align the bolt mechanism</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_zatvor_accuracy_descr">
+     <text>Precise adjustment of the bolt components allows for higher accuracy.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_zatvor_balancer_recoil_name">
+     <text>Balance the bolt group</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_zatvor_balancer_recoil_descr">
+     <text>Balancing of the bolt group components reduces the barrel's departure from line of sight when firing.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_usm_reliability_name">
+     <text>Wear-resistant trigger components</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_usm_reliability_descr">
+     <text>Replacing the various parts of the trigger assembly with equivalents made from more durable materials improves the overall longevity of the weapon.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_anatomic_pokritie_tsevie_name">
+     <text>Rubberized forend</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_anatomic_pokritie_tsevie_descr">
+     <text>Makes it easier to grip and handle the weapon.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_prujina_name">
+     <text>Spring replacement</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_prujina_descr">
+     <text>Returns the bolt group to its firing position faster between cycles, improving the rate of fire.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_priclad_rezina_name">
+     <text>Improved buttstock</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_priclad_rezina_descr">
+     <text>Installation of an anatomical rubberized buttstock reduces the recoil felt by the shooter.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_sheka_name">
+     <text>Install a cheek pad</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_sheka_descr">
+     <text>Installing a cushioned cheek pad on the stock reduces some of the effects of recoil transferred to the shooter.</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_titan_details_name">
+     <text>Heavy-duty components</text>
+</string>
+<string id="gunsl_wpn_svu_nimble_up_titan_details_descr">
+     <text>Replacing standard parts with analogs made of high-strength alloys increases the weapon's durability.</text>
+</string>
+</string_table>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="gunsl_wpn_svd_up_bayonet_name">
+     <text>Bayonet attachment</text>
+</string>
+<string id="gunsl_wpn_svd_up_bayonet_descr">
+     <text>Mounting a standard 6x5 bayonet allows the rifle to be used as an effective melee weapon. Due to its location on the weapon, it cannot be used simultaneously with an underbarrel grenade launcher or suppressor.</text>
+</string>
+<string id="gunsl_wpn_svd_up_usm_reliability_name">
+     <text>Wear-resistant trigger components</text>
+</string>
+<string id="gunsl_wpn_svd_up_usm_reliability_descr">
+     <text>Replacing the various parts of the trigger assembly with equivalents made from more durable materials improves the overall longevity of the weapon.</text>
+</string>
+<string id="gunsl_wpn_svd_up_usm_accuracy_name">
+     <text>Calibrate the trigger group</text>
+</string>
+<string id="gunsl_wpn_svd_up_usm_accuracy_descr">
+     <text>Precision adjustment and balancing of the trigger components allows for higher accuracy and reduced recoil.</text>
+</string>
+<string id="gunsl_wpn_svd_up_usm_rpm_name">
+     <text>Reinforced trigger assembly</text>
+</string>
+<string id="gunsl_wpn_svd_up_usm_rpm_descr">
+     <text>A refined trigger assembly allows for a faster rate of fire at the expense of some overall reliability.</text>
+</string>
+<string id="gunsl_wpn_svd_up_kompensator_name">
+     <text>Improved muzzle brake</text>
+</string>
+<string id="gunsl_wpn_svd_up_kompensator_descr">
+     <text>Installation of a more efficient muzzle brake significantly reduces overall recoil.</text>
+</string>
+<string id="gunsl_wpn_svd_up_zatvor_balanser_name">
+     <text>Balance the bolt group</text>
+</string>
+<string id="gunsl_wpn_svd_up_zatvor_balanser_descr">
+     <text>Balancing of the bolt group components reduces the barrel's departure from line of sight when firing.</text>
+</string>
+<string id="gunsl_wpn_svd_up_zatvor_reliability_name">
+     <text>High-strength bolt carrier</text>
+</string>
+<string id="gunsl_wpn_svd_up_zatvor_reliability_descr">
+     <text>Replacing the standard bolt carrier and firing pin with ones made from high-strength alloys significantly increases the number of firing cycles they can withstand before servicing.</text>
+</string>
+<string id="gunsl_wpn_svd_up_plastic_mag_name">
+     <text>Lightweight magazine</text>
+</string>
+<string id="gunsl_wpn_svd_up_plastic_mag_descr">
+     <text>Replacing the magazine with a modern lightweight equivalent reduces the overall weight of the gun slightly.</text>
+</string>
+<string id="gunsl_wpn_svd_up_podavatel_name">
+     <text>Revision of the feeding mechanism</text>
+</string>
+<string id="gunsl_wpn_svd_up_podavatel_descr">
+     <text>The ammunition feeding assembly has been redesigned to reduce the number of jams from cartridge misfeeding or alignment issues.</text>
+</string>
+<string id="gunsl_wpn_svd_up_gascam_name">
+     <text>Modify the gas system</text>
+</string>
+<string id="gunsl_wpn_svd_up_gascam_descr">
+     <text>Making certain modifications to the gas system can have beneficial characteristics, in this case an notable improvement in muzzle velocity and recoil reduction.</text>
+</string>
+<string id="gunsl_wpn_svd_up_light_priklad_name">
+     <text>Lightweight stock</text>
+</string>
+<string id="gunsl_wpn_svd_up_light_priklad_descr">
+     <text>Replacing the stock with a lightweight alternative reduces the overall weight of the weapon.</text>
+</string>
+<string id="gunsl_wpn_svd_up_tilnik_name">
+     <text>Improved buttstock</text>
+</string>
+<string id="gunsl_wpn_svd_up_tilnik_descr">
+     <text>Installation of an anatomical rubberized buttstock reduces the recoil felt by the shooter.</text>
+</string>
+<string id="gunsl_wpn_svd_up_light_tsevie_name">
+     <text>Lightweight forend</text>
+</string>
+<string id="gunsl_wpn_svd_up_light_tsevie_descr">
+     <text>Replacing the forend with a lightweight alternative reduces the overall weight of the weapon.</text>
+</string>
+<string id="gunsl_wpn_svd_up_pokritie_name">
+     <text>Protective coating</text>
+</string>
+<string id="gunsl_wpn_svd_up_pokritie_descr">
+     <text>The application of a special coating to the moving components can significantly reduce the amount of wear they receive.</text>
+</string>
+<string id="gunsl_wpn_svd_up_sights_name">
+     <text>Tritium inserts</text>
+</string>
+<string id="gunsl_wpn_svd_up_sights_descr">
+     <text>Installation of luminous night-sights allows for easier target acquisition in low-light conditions.</text>
+</string>
+<string id="gunsl_wpn_svd_up_sheka_name">
+     <text>Install a cheek pad</text>
+</string>
+<string id="gunsl_wpn_svd_up_sheka_descr">
+     <text>Installing a cushioned cheek pad on the stock reduces some of the effects of recoil transferred to the shooter.</text>
+</string>
+<string id="gunsl_wpn_svd_up_barrel_reliability_name">
+     <text>High-strength barrel</text>
+</string>
+<string id="gunsl_wpn_svd_up_barrel_reliability_descr">
+     <text>Replacing the barrel with one made from a stronger, more durable alloy reduces the amount of wear it takes from both the environment and the firing process itself.</text>
+</string>
+<string id="gunsl_wpn_svd_up_barrel_accuracy_name">
+     <text>Exchange barrel for 320mm twist rate</text>
+</string>
+<string id="gunsl_wpn_svd_up_barrel_accuracy_descr">
+     <text>The factory barrel ships with a twist rate of 240mm, which isn't as accurate as it can be, but accommodates all variants of the caliber designed for the rifle originally. Since the only ammunition for the SVD stalkers seem to be interested in are the sniper variants, replacing the barrel with a specialized 320mm alternative takes full advantage of its flight characteristics and provides more consistent, accurate shot placement over longer ranges.</text>
+</string>
+<string id="gunsl_wpn_svd_up_barrel_bullet_speed_name">
+     <text>Barrel alignment</text>
+</string>
+<string id="gunsl_wpn_svd_up_barrel_bullet_speed_descr">
+     <text>Improves muzzle velocity for a flatter trajectory.</text>
+</string>
+</string_table>

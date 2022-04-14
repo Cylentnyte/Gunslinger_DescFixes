@@ -73,7 +73,7 @@
      <text>Calibrate barrel alignment with the sights and remove any excessive movement that occurs during the firing cycle.</text>
 </string>
 <string id="gunsl_wpn_l85_up_barrel_bullet_speed_name">
-     <text>Change the barrel pitch</text>
+     <text>Change the barrel's twist rate</text>
 </string>
 <string id="gunsl_wpn_l85_up_barrel_bullet_speed_descr">
      <text>Increases muzzle velocity for a flatter trajectory and faster time-to-impact. Useful for long range shots.</text>
