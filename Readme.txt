@@ -5,6 +5,7 @@ Version info:
 
 Installation:
 
+- Make sure you're updated to the latest version of GUNSLINGER
 - Find your GUNSLINGER installation directory (NOT the main Stalker:CoP installation directory).
 - Backup the "gamedata" folder if it already exists, especially if you're using other mods in combination with GUNSLINGER. Particularly, any that affect the same files edited here.
 - Copy the included "gamedata" folder into this location and overwrite if asked.
