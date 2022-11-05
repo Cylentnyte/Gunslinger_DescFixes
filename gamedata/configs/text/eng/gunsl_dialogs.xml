@@ -214,7 +214,7 @@
         <text>I need a mercenary outfit.</text>
     </string>
     <string id="gunsl_dialog_nimble_about_merc_stealth_act_1">
-        <text>Do you know what you're asking for? Would you like a Monolith suit, too? I'm not going to ask why you suddenly need one, but I don't want any extra trouble in my life. If you want mercenary gear, make your own arrangements, and I'll take care of the easier and safer ones.</text>
+        <text>Do you know what you're asking for? Would you like a Monolith suit, too? I'm not going to ask why you suddenly need one, but I don't want any extra trouble in my life. It's safer to do business with bandits than those bounty hunters. If you want mercenary gear, make your own arrangements. I'll take care of the other orders.</text>
     </string>
 
 <!-- -->
@@ -713,7 +713,57 @@
     <string id="gunsl_dialog_pripyat_get_food_npc_1_2">
         <text>I can't, Comrade Major, you've already got your daily ration.  We're running low on supplies as it is.</text>
     </string>
+	
+<!-- -->
+	<string id="gunsl_dialog_mate_start_npc_1">
+		<text>Did you want something?</text>	
+	</string>
 
+    <string id="gunsl_dialog_helpmate_actor_initial_1">
+        <text>How are you feeling?</text>
+    </string>
+    <string id="gunsl_dialog_helpmate_actor_npc_1_good_1">
+        <text>I'm fine.</text>
+    </string>
+    <string id="gunsl_dialog_helpmate_actor_npc_1_good_2">
+        <text>He's as healthy as a burer.</text>
+    </string>
+	
+	<string id="gunsl_dialog_helpmate_actor_npc_1_mid_1">
+        <text>Nice, a couple of scratches don't count.</text>
+    </string>
+	<string id="gunsl_dialog_helpmate_actor_npc_1_mid_2">
+        <text>It'll do, I'll live.</text>
+    </string>
+    <string id="gunsl_dialog_helpmate_actor_npc_1_mid_3">
+        <text>So-so, to be honest.</text>
+    </string>
+	
+    <string id="gunsl_dialog_helpmate_actor_npc_1_bad_1">
+        <text>Barely alive, I'm dying.</text>
+    </string>
+    <string id="gunsl_dialog_helpmate_actor_npc_1_bad_2">
+        <text>I feel like shit, can't you see that?</text>
+    </string>
+    <string id="gunsl_dialog_helpmate_actor_npc_1_bad_3">
+        <text>Honestly, I'm about to die without medical care.</text>
+    </string>
+	
+    <string id="gunsl_dialog_helpmate_actor_2_1">
+        <text>Here's a first aid kit.</text>
+    </string>
+    <string id="gunsl_dialog_helpmate_actor_2_2">
+        <text>Then let's go.</text>
+    </string>
+	
+    <string id="gunsl_dialog_helpmate_npc_3_1">
+        <text>Thank you.</text>
+    </string>
+	
+    <string id="gunsl_dialog_helpmate_actor_4_1">
+        <text>Let's move.</text>
+    </string>
+	
 <!--
     <string id="">
         <text></text>
