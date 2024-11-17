@@ -1,6 +1,6 @@
 Version info:
 
-- Compatible with base GUNSLINGER mod for Stalker: Call of Pripyat as of 11-17-24.
+- Compatible with base GUNSLINGER mod for Stalker: Call of Pripyat as of 11-15-24.
 - This should not affect existing saved games.
 
 Installation:
