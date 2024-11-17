@@ -96,4 +96,10 @@
 <string id="gunsl_sig220r_up_light_details_descr">
      <text>Replacing standard parts with lightweight alloys significantly reduces the weight of the gun.</text>
 </string>
+<string id="gunsl_sig220r_up_mag11_name">
+     <text>High-capacity magazine</text>
+</string>
+<string id="gunsl_sig220r_up_mag11_descr">
+     <text>Higher-capacity magazines means fewer reloads during combat and improves the odds of survival.</text>
+</string>
 </string_table>

@@ -259,6 +259,13 @@
 	<string id="gunsl_wpn_protecta_descr">
 		<text>A South African 12-gauge combat shotgun with revolving cylinder and high rate of fire, capable of generating an extreme amount of firepower for the riot police it was originally distributed to. The advantages are diminished slightly by its bulk and considerable weight, as well as the lengthy time to reload, yet it remains a fearsome sight to behold in the Zone.</text>
 	</string>
+	
+	<string id="gunsl_wpn_protecta_nimble">
+		<text>Armsel Protecta "Eliminator"</text>
+	</string>
+	<string id="gunsl_wpn_protecta_nimble_descr">
+		<text>Unlike most Protectas in the Zone, this one's come fitted with the longer 18-inch barrel from a Striker-12, resulting in better accuracy and tighter shot groups out of the box.</text>
+	</string>
 
 	<string id="gunsl_wpn_saiga12">
 		<text>Saiga-12K</text>

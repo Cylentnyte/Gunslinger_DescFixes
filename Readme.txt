@@ -1,15 +1,14 @@
 Version info:
 
-- Compatible with base GUNSLINGER mod for Stalker: Call of Pripyat as of 11-5-22.
+- Compatible with base GUNSLINGER mod for Stalker: Call of Pripyat as of 11-17-24.
 - This should not affect existing saved games.
 
 Installation:
 
-- Make sure you're updated to the latest version of GUNSLINGER
+- Update to the latest version of GUNSLINGER
 - Find your GUNSLINGER installation directory (NOT the main Stalker:CoP installation directory).
 - Backup the "gamedata" folder if it already exists, especially if you're using other mods in combination with GUNSLINGER. Particularly, any that affect the same files edited here.
 - Copy the included "gamedata" folder into this location and overwrite if asked.
-- That's it.
 
 Notes:
 

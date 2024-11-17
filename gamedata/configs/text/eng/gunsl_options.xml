@@ -41,5 +41,8 @@
 	</string>	
 	<string id="gunsl_cod_pickup_mode">
 		<text>Simplified pickup</text>
-	</string>	
+	</string>
+	<string id="gunsl_hybrid_alter_zoom">
+		<text>Hybrid alternate sight</text>
+	</string>			
 </string_table>
