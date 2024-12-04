@@ -13,6 +13,8 @@ Installation:
 Notes:
 
 - Future GUNSLINGER updates may affect the ability of these files to load properly. If the game crashes on launch or fails to load, remove these files until the next available update.
+- If your Stalker:CoP installation is in non-English, you need to rename the "eng" folder in this mod to match. The text will still be in English but you won't get string IDs. (Credit: katalyser).
+	- eg., for French installations, change "<GUNSLINGER installdir>/gamedata/configs/text/eng" to "<GUNSLINGER installdir>/gamedata/configs/text/fra"
 
 Contact:
 
